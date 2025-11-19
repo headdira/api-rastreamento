@@ -205,13 +205,13 @@
                 "imei": "1000000000034668",
                 "status": {
                     "address": "",
-                    "date": 1763522067000,
-                    "heartbeat_time": 1763522069000,
+                    "date": 1763565264000,
+                    "heartbeat_time": 1763565267000,
                     "lat": -23.67693519592285,
                     "latlng_valid": 0,
                     "lng": -46.79854965209961,
-                    "location_date": 1763522067000,
-                    "network_signal": 65
+                    "location_date": 1763565264000,
+                    "network_signal": 68
                 },
                 "config": {
                     "name": "32592089845-359329"
@@ -1855,13 +1855,13 @@
                 "imei": "1000000000034756",
                 "status": {
                     "address": "",
-                    "date": 1763515020000,
-                    "heartbeat_time": 1763515020000,
+                    "date": 1763558218000,
+                    "heartbeat_time": 1763558220000,
                     "lat": -23.552255630493164,
                     "latlng_valid": 0,
                     "lng": -46.47747039794922,
-                    "location_date": 1763515020000,
-                    "network_signal": 86
+                    "location_date": 1763558218000,
+                    "network_signal": 79
                 },
                 "config": {
                     "name": "49673743878-216673"
@@ -1869,7 +1869,7 @@
                 "device_key": "869487061014154",
                 "lbs_position": {
                     "lat": -23.55000973,
-                    "lng": -46.47379875
+                    "lng": -46.47347689
                 }
             },
             {
@@ -4759,21 +4759,21 @@
                 "imei": "1000000000034919",
                 "status": {
                     "address": "",
-                    "date": 1763508611000,
-                    "heartbeat_time": 1763508612000,
+                    "date": 1763551811000,
+                    "heartbeat_time": 1763551812000,
                     "lat": -23.673986434936523,
                     "latlng_valid": 0,
                     "lng": -46.513465881347656,
-                    "location_date": 1763508611000,
-                    "network_signal": 82
+                    "location_date": 1763551811000,
+                    "network_signal": 55
                 },
                 "config": {
                     "name": "50716612844-334392"
                 },
                 "device_key": "869487061028659",
                 "lbs_position": {
-                    "lat": -23.67687821,
-                    "lng": -46.51377439
+                    "lat": -23.65437984,
+                    "lng": -46.50785208
                 }
             },
             {
@@ -7377,13 +7377,13 @@
                 "imei": "1000000000035054",
                 "status": {
                     "address": "",
-                    "date": 1763519274000,
-                    "heartbeat_time": 1763519275000,
+                    "date": 1763562469000,
+                    "heartbeat_time": 1763562502000,
                     "lat": -23.825456619262695,
                     "latlng_valid": 0,
                     "lng": -46.72101974487305,
-                    "location_date": 1763519274000,
-                    "network_signal": 31
+                    "location_date": 1763562469000,
+                    "network_signal": 27
                 },
                 "config": {
                     "name": "22440525839-362562"
@@ -12327,13 +12327,13 @@
                 "imei": "1000000000035339",
                 "status": {
                     "address": "",
-                    "date": 1763508633000,
-                    "heartbeat_time": 1763508634000,
-                    "lat": -23.547534942626953,
+                    "date": 1763551828000,
+                    "heartbeat_time": 1763551829000,
+                    "lat": -23.533586502075195,
                     "latlng_valid": 1,
-                    "lng": -46.333984375,
-                    "location_date": 1763508633000,
-                    "network_signal": 72
+                    "lng": -46.356842041015625,
+                    "location_date": 1763551828000,
+                    "network_signal": 86
                 },
                 "config": {
                     "name": "13178631860-220929"
@@ -12415,13 +12415,13 @@
                 "imei": "1000000000035344",
                 "status": {
                     "address": "",
-                    "date": 1763519332000,
-                    "heartbeat_time": 1763519335000,
-                    "lat": -23.058795928955078,
+                    "date": 1763562538000,
+                    "heartbeat_time": 1763562539000,
+                    "lat": -23.05868148803711,
                     "latlng_valid": 1,
-                    "lng": -46.98322677612305,
-                    "location_date": 1763519332000,
-                    "network_signal": 0
+                    "lng": -46.98319625854492,
+                    "location_date": 1763562538000,
+                    "network_signal": 55
                 },
                 "config": {
                     "name": "08198630848-335866"
@@ -13889,21 +13889,21 @@
                 "imei": "1000000000035425",
                 "status": {
                     "address": "",
-                    "date": 1763513629000,
-                    "heartbeat_time": 1763513631000,
+                    "date": 1763556837000,
+                    "heartbeat_time": 1763556839000,
                     "lat": -23.711469650268555,
                     "latlng_valid": 0,
                     "lng": -46.56696701049805,
-                    "location_date": 1763513629000,
-                    "network_signal": 37
+                    "location_date": 1763556837000,
+                    "network_signal": 51
                 },
                 "config": {
                     "name": "18362936827-374532"
                 },
                 "device_key": "869487062723241",
                 "lbs_position": {
-                    "lat": -23.68751049,
-                    "lng": -46.56499386
+                    "lat": -23.74625087,
+                    "lng": -46.53842926
                 }
             },
             {
@@ -14197,12 +14197,12 @@
                 "imei": "1000000000035444",
                 "status": {
                     "address": "",
-                    "date": 1763509639000,
-                    "heartbeat_time": 1763509640000,
+                    "date": 1763552838000,
+                    "heartbeat_time": 1763552840000,
                     "lat": -22.344829559326172,
                     "latlng_valid": 0,
                     "lng": -47.3741455078125,
-                    "location_date": 1763509639000,
+                    "location_date": 1763552838000,
                     "network_signal": 41
                 },
                 "config": {
@@ -15693,21 +15693,21 @@
                 "imei": "1000000000035533",
                 "status": {
                     "address": "",
-                    "date": 1763522883000,
-                    "heartbeat_time": 1763522884000,
+                    "date": 1763566092000,
+                    "heartbeat_time": 1763566094000,
                     "lat": -23.535032272338867,
                     "latlng_valid": 0,
                     "lng": -46.52024459838867,
-                    "location_date": 1763522883000,
-                    "network_signal": 48
+                    "location_date": 1763566092000,
+                    "network_signal": 68
                 },
                 "config": {
                     "name": "42953384863-267999"
                 },
                 "device_key": "869487062730600",
                 "lbs_position": {
-                    "lat": -19.86437559,
-                    "lng": -43.93318892
+                    "lat": -19.86500859,
+                    "lng": -43.92887592
                 }
             },
             {
@@ -17475,12 +17475,12 @@
                 "imei": "1000000000035631",
                 "status": {
                     "address": "",
-                    "date": 1763549737000,
-                    "heartbeat_time": 1763549739000,
-                    "lat": -23.08544158935547,
+                    "date": 1763565945000,
+                    "heartbeat_time": 1763565947000,
+                    "lat": -23.085439682006836,
                     "latlng_valid": 1,
-                    "lng": -45.66640853881836,
-                    "location_date": 1763549737000,
+                    "lng": -45.66633605957031,
+                    "location_date": 1763565945000,
                     "network_signal": 0
                 },
                 "config": {
@@ -19059,13 +19059,13 @@
                 "imei": "1000000000035719",
                 "status": {
                     "address": "",
-                    "date": 1763521424000,
-                    "heartbeat_time": 1763521427000,
-                    "lat": -23.60089874267578,
+                    "date": 1763564622000,
+                    "heartbeat_time": 1763564622000,
+                    "lat": -23.551860809326172,
                     "latlng_valid": 1,
-                    "lng": -46.8874626159668,
-                    "location_date": 1763521424000,
-                    "network_signal": 0
+                    "lng": -47.18964767456055,
+                    "location_date": 1763564622000,
+                    "network_signal": 55
                 },
                 "config": {
                     "name": "26937408862-495195"
@@ -19235,13 +19235,13 @@
                 "imei": "1000000000035728",
                 "status": {
                     "address": "",
-                    "date": 1763522319000,
-                    "heartbeat_time": 1763522321000,
+                    "date": 1763565518000,
+                    "heartbeat_time": 1763565519000,
                     "lat": -23.462202072143555,
                     "latlng_valid": 0,
                     "lng": -47.46732711791992,
-                    "location_date": 1763522319000,
-                    "network_signal": 37
+                    "location_date": 1763565518000,
+                    "network_signal": 41
                 },
                 "config": {
                     "name": "46097642881-277770"
@@ -20577,12 +20577,12 @@
                 "imei": "1000000000035803",
                 "status": {
                     "address": "",
-                    "date": 1763518472000,
-                    "heartbeat_time": 1763518473000,
-                    "lat": -20.03815460205078,
+                    "date": 1763561673000,
+                    "heartbeat_time": 1763561675000,
+                    "lat": -20.038841247558594,
                     "latlng_valid": 1,
-                    "lng": -47.74676513671875,
-                    "location_date": 1763518472000,
+                    "lng": -47.747745513916016,
+                    "location_date": 1763561673000,
                     "network_signal": 0
                 },
                 "config": {
@@ -20797,21 +20797,21 @@
                 "imei": "1000000000035815",
                 "status": {
                     "address": "",
-                    "date": 1763517993000,
-                    "heartbeat_time": 1763517994000,
+                    "date": 1763561192000,
+                    "heartbeat_time": 1763561193000,
                     "lat": -23.62681770324707,
                     "latlng_valid": 0,
                     "lng": -46.44673156738281,
-                    "location_date": 1763517993000,
-                    "network_signal": 75
+                    "location_date": 1763561192000,
+                    "network_signal": 68
                 },
                 "config": {
                     "name": "05957864560-243293"
                 },
                 "device_key": "869487062747901",
                 "lbs_position": {
-                    "lat": -23.68937731,
-                    "lng": -46.50830269
+                    "lat": -23.49375844,
+                    "lng": -46.56392097
                 }
             },
             {
@@ -22865,21 +22865,21 @@
                 "imei": "1000000000035936",
                 "status": {
                     "address": "",
-                    "date": 1763550009000,
-                    "heartbeat_time": 1763550012000,
+                    "date": 1763564412000,
+                    "heartbeat_time": 1763564414000,
                     "lat": -23.694292068481445,
                     "latlng_valid": 0,
                     "lng": -46.67682647705078,
-                    "location_date": 1763550009000,
-                    "network_signal": 58
+                    "location_date": 1763564412000,
+                    "network_signal": 31
                 },
                 "config": {
                     "name": "40208520813-385111"
                 },
                 "device_key": "869487062754931",
                 "lbs_position": {
-                    "lat": -23.49938035,
-                    "lng": -46.18330479
+                    "lat": -23.45312834,
+                    "lng": -46.53806448
                 }
             },
             {
@@ -26407,12 +26407,12 @@
                 "imei": "1000000000036141",
                 "status": {
                     "address": "",
-                    "date": 1763509967000,
-                    "heartbeat_time": 1763509970000,
-                    "lat": -23.639633178710938,
+                    "date": 1763553163000,
+                    "heartbeat_time": 1763553166000,
+                    "lat": -23.63963508605957,
                     "latlng_valid": 1,
-                    "lng": -46.5048942565918,
-                    "location_date": 1763509967000,
+                    "lng": -46.50492858886719,
+                    "location_date": 1763553163000,
                     "network_signal": 0
                 },
                 "config": {
@@ -32237,21 +32237,21 @@
                 "imei": "1000000000036467",
                 "status": {
                     "address": "",
-                    "date": 1763519509000,
-                    "heartbeat_time": 1763519511000,
+                    "date": 1763562709000,
+                    "heartbeat_time": 1763562710000,
                     "lat": 0,
                     "latlng_valid": 0,
                     "lng": 0,
-                    "location_date": 1763519509000,
-                    "network_signal": 72
+                    "location_date": 1763562709000,
+                    "network_signal": 58
                 },
                 "config": {
                     "name": "85868166558-397491"
                 },
                 "device_key": "869487062774574",
                 "lbs_position": {
-                    "lat": -23.7456286,
-                    "lng": -46.67747498
+                    "lat": -23.74062896,
+                    "lng": -46.67751789
                 }
             },
             {
@@ -32391,13 +32391,13 @@
                 "imei": "1000000000036476",
                 "status": {
                     "address": "",
-                    "date": 1763514555000,
-                    "heartbeat_time": 1763514555000,
-                    "lat": -23.624372482299805,
+                    "date": 1763557757000,
+                    "heartbeat_time": 1763557759000,
+                    "lat": -23.62450408935547,
                     "latlng_valid": 1,
-                    "lng": -46.82180404663086,
-                    "location_date": 1763514555000,
-                    "network_signal": 68
+                    "lng": -46.82209014892578,
+                    "location_date": 1763557757000,
+                    "network_signal": 58
                 },
                 "config": {
                     "name": "43383652858-206789"
@@ -32545,13 +32545,13 @@
                 "imei": "1000000000036486",
                 "status": {
                     "address": "",
-                    "date": 1763473171000,
-                    "heartbeat_time": 1763473172000,
-                    "lat": -23.727783203125,
+                    "date": 1763559571000,
+                    "heartbeat_time": 1763559573000,
+                    "lat": -23.70101547241211,
                     "latlng_valid": 1,
-                    "lng": -46.48744583129883,
-                    "location_date": 1763473171000,
-                    "network_signal": 34
+                    "lng": -46.53463363647461,
+                    "location_date": 1763559571000,
+                    "network_signal": 100
                 },
                 "config": {
                     "name": "12425453873-263038"
@@ -32985,12 +32985,12 @@
                 "imei": "1000000000036509",
                 "status": {
                     "address": "",
-                    "date": 1763510668000,
-                    "heartbeat_time": 1763510669000,
-                    "lat": -23.48035430908203,
+                    "date": 1763553871000,
+                    "heartbeat_time": 1763553874000,
+                    "lat": -23.48042869567871,
                     "latlng_valid": 1,
-                    "lng": -46.527706146240234,
-                    "location_date": 1763510668000,
+                    "lng": -46.52766036987305,
+                    "location_date": 1763553871000,
                     "network_signal": 0
                 },
                 "config": {
@@ -37390,13 +37390,13 @@
                 "imei": "1000000000036756",
                 "status": {
                     "address": "",
-                    "date": 1763468268000,
-                    "heartbeat_time": 1763468274000,
+                    "date": 1763554666000,
+                    "heartbeat_time": 1763554671000,
                     "lat": -23.60613441467285,
                     "latlng_valid": 0,
                     "lng": -46.9400520324707,
-                    "location_date": 1763468268000,
-                    "network_signal": 20
+                    "location_date": 1763554666000,
+                    "network_signal": 24
                 },
                 "config": {
                     "name": "39209858859-140617"
@@ -38138,21 +38138,21 @@
                 "imei": "1000000000036795",
                 "status": {
                     "address": "",
-                    "date": 1763516159000,
-                    "heartbeat_time": 1763516161000,
+                    "date": 1763559358000,
+                    "heartbeat_time": 1763559359000,
                     "lat": -20.760793685913086,
                     "latlng_valid": 0,
                     "lng": -49.34820556640625,
-                    "location_date": 1763516159000,
-                    "network_signal": 75
+                    "location_date": 1763559358000,
+                    "network_signal": 96
                 },
                 "config": {
                     "name": "34110219850-349399"
                 },
                 "device_key": "869487062796866",
                 "lbs_position": {
-                    "lat": -20.75687528,
-                    "lng": -49.35843945
+                    "lat": -20.79812765,
+                    "lng": -49.36410427
                 }
             },
             {
@@ -38160,21 +38160,21 @@
                 "imei": "1000000000036796",
                 "status": {
                     "address": "",
-                    "date": 1763522283000,
-                    "heartbeat_time": 1763522284000,
+                    "date": 1763565470000,
+                    "heartbeat_time": 1763565472000,
                     "lat": -23.672687530517578,
                     "latlng_valid": 0,
                     "lng": -46.43898391723633,
-                    "location_date": 1763522283000,
-                    "network_signal": 79
+                    "location_date": 1763565470000,
+                    "network_signal": 68
                 },
                 "config": {
                     "name": "35022771845-371126"
                 },
                 "device_key": "869487062796874",
                 "lbs_position": {
-                    "lat": -23.64625812,
-                    "lng": -46.43350124
+                    "lat": -23.64500284,
+                    "lng": -46.43487453
                 }
             },
             {
@@ -39590,12 +39590,12 @@
                 "imei": "1000000000036873",
                 "status": {
                     "address": "",
-                    "date": 1763522344000,
-                    "heartbeat_time": 1763522346000,
-                    "lat": -23.67152976989746,
+                    "date": 1763565536000,
+                    "heartbeat_time": 1763565540000,
+                    "lat": -23.671850204467773,
                     "latlng_valid": 1,
-                    "lng": -46.447052001953125,
-                    "location_date": 1763522344000,
+                    "lng": -46.4471435546875,
+                    "location_date": 1763565536000,
                     "network_signal": 0
                 },
                 "config": {
@@ -39854,21 +39854,21 @@
                 "imei": "1000000000036888",
                 "status": {
                     "address": "",
-                    "date": 1763522322000,
-                    "heartbeat_time": 1763522323000,
+                    "date": 1763565520000,
+                    "heartbeat_time": 1763565521000,
                     "lat": -23.514705657958984,
-                    "latlng_valid": 1,
+                    "latlng_valid": 0,
                     "lng": -47.14128494262695,
-                    "location_date": 1763522322000,
-                    "network_signal": 0
+                    "location_date": 1763565520000,
+                    "network_signal": 58
                 },
                 "config": {
                     "name": "35549640856-251628"
                 },
                 "device_key": "869487062802490",
                 "lbs_position": {
-                    "lat": -23.550632,
-                    "lng": -47.12903023
+                    "lat": -23.54875445,
+                    "lng": -47.12922335
                 }
             },
             {
@@ -41174,21 +41174,21 @@
                 "imei": "1000000000036963",
                 "status": {
                     "address": "",
-                    "date": 1763517625000,
-                    "heartbeat_time": 1763517625000,
+                    "date": 1763560821000,
+                    "heartbeat_time": 1763560823000,
                     "lat": -20.60238265991211,
                     "latlng_valid": 0,
                     "lng": -47.484458923339844,
-                    "location_date": 1763517625000,
-                    "network_signal": 68
+                    "location_date": 1763560821000,
+                    "network_signal": 100
                 },
                 "config": {
                     "name": "44556532876-293405"
                 },
                 "device_key": "869487062806327",
                 "lbs_position": {
-                    "lat": -20.59500933,
-                    "lng": -47.46061563
+                    "lat": -20.59125423,
+                    "lng": -47.44392157
                 }
             },
             {
@@ -42472,13 +42472,13 @@
                 "imei": "1000000000037035",
                 "status": {
                     "address": "",
-                    "date": 1763521221000,
-                    "heartbeat_time": 1763521224000,
+                    "date": 1763564421000,
+                    "heartbeat_time": 1763564423000,
                     "lat": -22.84290885925293,
-                    "latlng_valid": 1,
+                    "latlng_valid": 0,
                     "lng": -47.1919059753418,
-                    "location_date": 1763521221000,
-                    "network_signal": 0
+                    "location_date": 1763564421000,
+                    "network_signal": 86
                 },
                 "config": {
                     "name": "36327356893-356847"
@@ -42486,7 +42486,7 @@
                 "device_key": "869487062807804",
                 "lbs_position": {
                     "lat": -22.76937962,
-                    "lng": -47.3132658
+                    "lng": -47.313416
                 }
             },
             {
@@ -46212,12 +46212,12 @@
                 "imei": "1000000000037244",
                 "status": {
                     "address": "",
-                    "date": 1763521181000,
-                    "heartbeat_time": 1763521215000,
-                    "lat": -22.477243423461914,
+                    "date": 1763564378000,
+                    "heartbeat_time": 1763564379000,
+                    "lat": -22.487964630126953,
                     "latlng_valid": 1,
-                    "lng": -47.16451644897461,
-                    "location_date": 1763521181000,
+                    "lng": -47.211639404296875,
+                    "location_date": 1763564378000,
                     "network_signal": 0
                 },
                 "config": {
@@ -46652,21 +46652,21 @@
                 "imei": "1000000000037266",
                 "status": {
                     "address": "",
-                    "date": 1763518005000,
-                    "heartbeat_time": 1763518008000,
+                    "date": 1763561176000,
+                    "heartbeat_time": 1763561178000,
                     "lat": 0,
                     "latlng_valid": 0,
                     "lng": 0,
-                    "location_date": 1763518005000,
-                    "network_signal": 31
+                    "location_date": 1763561176000,
+                    "network_signal": 34
                 },
                 "config": {
                     "name": "32097478816-339935"
                 },
                 "device_key": "869487062821458",
                 "lbs_position": {
-                    "lat": -23.53250027,
-                    "lng": -47.20031261
+                    "lat": -23.53313327,
+                    "lng": -47.19314575
                 }
             },
             {
@@ -47642,13 +47642,13 @@
                 "imei": "1000000000037316",
                 "status": {
                     "address": "",
-                    "date": 1763510134000,
-                    "heartbeat_time": 1763510136000,
-                    "lat": -23.64202880859375,
-                    "latlng_valid": 0,
-                    "lng": -46.60747528076172,
-                    "location_date": 1763510134000,
-                    "network_signal": 89
+                    "date": 1763553337000,
+                    "heartbeat_time": 1763553341000,
+                    "lat": -23.538042068481445,
+                    "latlng_valid": 1,
+                    "lng": -46.6552734375,
+                    "location_date": 1763553337000,
+                    "network_signal": 0
                 },
                 "config": {
                     "name": "22078585882-279077"
@@ -48742,12 +48742,12 @@
                 "imei": "1000000000037384",
                 "status": {
                     "address": "",
-                    "date": 1763516761000,
-                    "heartbeat_time": 1763516765000,
+                    "date": 1763559962000,
+                    "heartbeat_time": 1763559964000,
                     "lat": 22.711528778076172,
                     "latlng_valid": 0,
                     "lng": 113.84424591064453,
-                    "location_date": 1763516761000,
+                    "location_date": 1763559962000,
                     "network_signal": 31
                 },
                 "config": {
@@ -48755,8 +48755,8 @@
                 },
                 "device_key": "869487062827232",
                 "lbs_position": {
-                    "lat": -23.61438274,
-                    "lng": -46.76161051
+                    "lat": -23.61500502,
+                    "lng": -46.76098824
                 }
             },
             {
@@ -49270,13 +49270,13 @@
                 "imei": "1000000000037418",
                 "status": {
                     "address": "",
-                    "date": 1763509782000,
-                    "heartbeat_time": 1763509785000,
-                    "lat": -22.78329086303711,
-                    "latlng_valid": 0,
+                    "date": 1763552977000,
+                    "heartbeat_time": 1763552978000,
+                    "lat": -22.7831974029541,
+                    "latlng_valid": 1,
                     "lng": -47.285030364990234,
-                    "location_date": 1763509782000,
-                    "network_signal": 51
+                    "location_date": 1763552977000,
+                    "network_signal": 86
                 },
                 "config": {
                     "name": "46672739840-370055"
@@ -51492,21 +51492,21 @@
                 "imei": "1000000000037532",
                 "status": {
                     "address": "",
-                    "date": 1763516671000,
-                    "heartbeat_time": 1763516673000,
+                    "date": 1763559897000,
+                    "heartbeat_time": 1763559897000,
                     "lat": -22.449481964111328,
-                    "latlng_valid": 1,
+                    "latlng_valid": 0,
                     "lng": -47.53504943847656,
-                    "location_date": 1763516671000,
-                    "network_signal": 0
+                    "location_date": 1763559897000,
+                    "network_signal": 96
                 },
                 "config": {
                     "name": "16924475728-245383"
                 },
                 "device_key": "869487062841605",
                 "lbs_position": {
-                    "lat": -22.45875835,
-                    "lng": -47.52342224
+                    "lat": -22.45750308,
+                    "lng": -47.53142595
                 }
             },
             {
@@ -56024,13 +56024,13 @@
                 "imei": "1000000000037775",
                 "status": {
                     "address": "",
-                    "date": 1763522795000,
-                    "heartbeat_time": 1763522798000,
-                    "lat": -23.683120727539062,
-                    "latlng_valid": 0,
-                    "lng": -46.49839782714844,
-                    "location_date": 1763522795000,
-                    "network_signal": 44
+                    "date": 1763565989000,
+                    "heartbeat_time": 1763565991000,
+                    "lat": -23.683103561401367,
+                    "latlng_valid": 1,
+                    "lng": -46.49834060668945,
+                    "location_date": 1763565989000,
+                    "network_signal": 0
                 },
                 "config": {
                     "name": "46690105814-187954"
@@ -58972,12 +58972,12 @@
                 "imei": "1000000000037936",
                 "status": {
                     "address": "",
-                    "date": 1763512378000,
-                    "heartbeat_time": 1763512379000,
-                    "lat": -23.555187225341797,
+                    "date": 1763555571000,
+                    "heartbeat_time": 1763555573000,
+                    "lat": -23.55490493774414,
                     "latlng_valid": 1,
-                    "lng": -46.33318328857422,
-                    "location_date": 1763512378000,
+                    "lng": -46.33310317993164,
+                    "location_date": 1763555571000,
                     "network_signal": 0
                 },
                 "config": {
@@ -58994,13 +58994,13 @@
                 "imei": "1000000000037937",
                 "status": {
                     "address": "",
-                    "date": 1763514147000,
-                    "heartbeat_time": 1763514148000,
+                    "date": 1763557357000,
+                    "heartbeat_time": 1763557357000,
                     "lat": -23.182571411132812,
-                    "latlng_valid": 1,
+                    "latlng_valid": 0,
                     "lng": -45.83048629760742,
-                    "location_date": 1763514147000,
-                    "network_signal": 0
+                    "location_date": 1763557357000,
+                    "network_signal": 62
                 },
                 "config": {
                     "name": "14120927873-328276"
@@ -59008,7 +59008,7 @@
                 "device_key": "869487062855035",
                 "lbs_position": {
                     "lat": -23.18000436,
-                    "lng": -45.83768606
+                    "lng": -45.8373642
                 }
             },
             {
@@ -59984,12 +59984,12 @@
                 "imei": "1000000000037990",
                 "status": {
                     "address": "",
-                    "date": 1763518307000,
-                    "heartbeat_time": 1763518310000,
-                    "lat": -23.534114837646484,
+                    "date": 1763561512000,
+                    "heartbeat_time": 1763561513000,
+                    "lat": -23.56633758544922,
                     "latlng_valid": 1,
-                    "lng": -46.34347915649414,
-                    "location_date": 1763518307000,
+                    "lng": -46.29487991333008,
+                    "location_date": 1763561512000,
                     "network_signal": 0
                 },
                 "config": {
@@ -60556,12 +60556,12 @@
                 "imei": "1000000000038028",
                 "status": {
                     "address": "",
-                    "date": 1763519973000,
-                    "heartbeat_time": 1763519980000,
-                    "lat": -22.94541358947754,
+                    "date": 1763563173000,
+                    "heartbeat_time": 1763563174000,
+                    "lat": -22.933841705322266,
                     "latlng_valid": 1,
-                    "lng": -46.52149200439453,
-                    "location_date": 1763519973000,
+                    "lng": -46.5319709777832,
+                    "location_date": 1763563173000,
                     "network_signal": 0
                 },
                 "config": {
@@ -61722,13 +61722,13 @@
                 "imei": "1000000000038088",
                 "status": {
                     "address": "",
-                    "date": 1763522640000,
-                    "heartbeat_time": 1763522642000,
-                    "lat": -23.35744857788086,
+                    "date": 1763565844000,
+                    "heartbeat_time": 1763565845000,
+                    "lat": -23.35781478881836,
                     "latlng_valid": 1,
-                    "lng": -46.63680648803711,
-                    "location_date": 1763522640000,
-                    "network_signal": 0
+                    "lng": -46.63638687133789,
+                    "location_date": 1763565844000,
+                    "network_signal": 44
                 },
                 "config": {
                     "name": "48607441876-306478"
@@ -62668,13 +62668,13 @@
                 "imei": "1000000000038140",
                 "status": {
                     "address": "",
-                    "date": 1763519239000,
-                    "heartbeat_time": 1763519241000,
-                    "lat": -22.818668365478516,
-                    "latlng_valid": 0,
-                    "lng": -47.26243209838867,
-                    "location_date": 1763519239000,
-                    "network_signal": 75
+                    "date": 1763562431000,
+                    "heartbeat_time": 1763562434000,
+                    "lat": -22.818723678588867,
+                    "latlng_valid": 1,
+                    "lng": -47.26256561279297,
+                    "location_date": 1763562431000,
+                    "network_signal": 0
                 },
                 "config": {
                     "name": "06197105942-397403"
@@ -64406,12 +64406,12 @@
                 "imei": "1000000000038228",
                 "status": {
                     "address": "",
-                    "date": 1763519242000,
-                    "heartbeat_time": 1763519243000,
+                    "date": 1763562440000,
+                    "heartbeat_time": 1763562441000,
                     "lat": -23.455368041992188,
                     "latlng_valid": 0,
                     "lng": -46.505130767822266,
-                    "location_date": 1763519242000,
+                    "location_date": 1763562440000,
                     "network_signal": 75
                 },
                 "config": {
@@ -71204,21 +71204,21 @@
                 "imei": "1000000000038605",
                 "status": {
                     "address": "",
-                    "date": 1763519541000,
-                    "heartbeat_time": 1763519543000,
+                    "date": 1763562741000,
+                    "heartbeat_time": 1763562742000,
                     "lat": -21.41868782043457,
                     "latlng_valid": 0,
                     "lng": -50.074554443359375,
-                    "location_date": 1763519541000,
-                    "network_signal": 44
+                    "location_date": 1763562741000,
+                    "network_signal": 55
                 },
                 "config": {
                     "name": "07854551839-242129"
                 },
                 "device_key": "869487062891279",
                 "lbs_position": {
-                    "lat": -21.41750336,
-                    "lng": -50.06394625
+                    "lat": -21.43000245,
+                    "lng": -50.08572578
                 }
             },
             {
@@ -72793,13 +72793,13 @@
                 "imei": "1000000000038690",
                 "status": {
                     "address": "",
-                    "date": 1763551802000,
-                    "heartbeat_time": 1763551804000,
-                    "lat": -23.605520248413086,
+                    "date": 1763566206000,
+                    "heartbeat_time": 1763566207000,
+                    "lat": -23.645923614501953,
                     "latlng_valid": 1,
-                    "lng": -46.48843002319336,
-                    "location_date": 1763551802000,
-                    "network_signal": 48
+                    "lng": -46.512359619140625,
+                    "location_date": 1763566206000,
+                    "network_signal": 79
                 },
                 "config": {
                     "name": "08638029829-294358"
@@ -75081,13 +75081,13 @@
                 "imei": "1000000000038815",
                 "status": {
                     "address": "",
-                    "date": 1763522180000,
-                    "heartbeat_time": 1763522181000,
+                    "date": 1763565379000,
+                    "heartbeat_time": 1763565381000,
                     "lat": -23.489280700683594,
                     "latlng_valid": 0,
                     "lng": -46.55033874511719,
-                    "location_date": 1763522180000,
-                    "network_signal": 68
+                    "location_date": 1763565379000,
+                    "network_signal": 79
                 },
                 "config": {
                     "name": "30672401894-477619"
@@ -81131,13 +81131,13 @@
                 "imei": "1000000000039160",
                 "status": {
                     "address": "",
-                    "date": 1763520393000,
-                    "heartbeat_time": 1763520394000,
-                    "lat": -22.813823699951172,
-                    "latlng_valid": 0,
-                    "lng": -47.27373504638672,
-                    "location_date": 1763520393000,
-                    "network_signal": 58
+                    "date": 1763563586000,
+                    "heartbeat_time": 1763563588000,
+                    "lat": -22.81376838684082,
+                    "latlng_valid": 1,
+                    "lng": -47.27386474609375,
+                    "location_date": 1763563586000,
+                    "network_signal": 0
                 },
                 "config": {
                     "name": "26659804870-176126"
@@ -81879,13 +81879,13 @@
                 "imei": "1000000000039208",
                 "status": {
                     "address": "",
-                    "date": 1763520468000,
-                    "heartbeat_time": 1763520471000,
-                    "lat": -23.72567367553711,
-                    "latlng_valid": 0,
-                    "lng": -46.47957229614258,
-                    "location_date": 1763520468000,
-                    "network_signal": 41
+                    "date": 1763563631000,
+                    "heartbeat_time": 1763563632000,
+                    "lat": -23.725845336914062,
+                    "latlng_valid": 1,
+                    "lng": -46.47953414916992,
+                    "location_date": 1763563631000,
+                    "network_signal": 55
                 },
                 "config": {
                     "name": "38583421811-403190"
@@ -84123,13 +84123,13 @@
                 "imei": "1000000000039337",
                 "status": {
                     "address": "",
-                    "date": 1763520613000,
-                    "heartbeat_time": 1763520614000,
-                    "lat": -23.55398178100586,
+                    "date": 1763563807000,
+                    "heartbeat_time": 1763563808000,
+                    "lat": -23.54522705078125,
                     "latlng_valid": 1,
-                    "lng": -46.36943817138672,
-                    "location_date": 1763520613000,
-                    "network_signal": 100
+                    "lng": -46.37126922607422,
+                    "location_date": 1763563807000,
+                    "network_signal": 0
                 },
                 "config": {
                     "name": "32895823880-427242"
@@ -85641,12 +85641,12 @@
                 "imei": "1000000000039418",
                 "status": {
                     "address": "",
-                    "date": 1763522516000,
-                    "heartbeat_time": 1763522517000,
-                    "lat": -23.491943359375,
+                    "date": 1763565708000,
+                    "heartbeat_time": 1763565710000,
+                    "lat": -23.491941452026367,
                     "latlng_valid": 1,
-                    "lng": -46.35776138305664,
-                    "location_date": 1763522516000,
+                    "lng": -46.35776901245117,
+                    "location_date": 1763565708000,
                     "network_signal": 0
                 },
                 "config": {
@@ -88479,21 +88479,21 @@
                 "imei": "1000000000039577",
                 "status": {
                     "address": "",
-                    "date": 1763515519000,
-                    "heartbeat_time": 1763515521000,
+                    "date": 1763558717000,
+                    "heartbeat_time": 1763558719000,
                     "lat": -23.71031951904297,
                     "latlng_valid": 0,
                     "lng": -46.805301666259766,
-                    "location_date": 1763515519000,
-                    "network_signal": 72
+                    "location_date": 1763558717000,
+                    "network_signal": 75
                 },
                 "config": {
                     "name": "32814130803-194486"
                 },
                 "device_key": "869487062926893",
                 "lbs_position": {
-                    "lat": -23.71625304,
-                    "lng": -46.81177855
+                    "lat": -23.72313023,
+                    "lng": -46.80946112
                 }
             },
             {
@@ -94133,13 +94133,13 @@
                 "imei": "1000000000039887",
                 "status": {
                     "address": "",
-                    "date": 1763518662000,
-                    "heartbeat_time": 1763518664000,
-                    "lat": -23.661243438720703,
-                    "latlng_valid": 0,
-                    "lng": -46.7039909362793,
-                    "location_date": 1763518662000,
-                    "network_signal": 86
+                    "date": 1763561864000,
+                    "heartbeat_time": 1763561867000,
+                    "lat": -23.661191940307617,
+                    "latlng_valid": 1,
+                    "lng": -46.70399475097656,
+                    "location_date": 1763561864000,
+                    "network_signal": 0
                 },
                 "config": {
                     "name": "24686329825-350450"
@@ -94375,13 +94375,13 @@
                 "imei": "1000000000039901",
                 "status": {
                     "address": "",
-                    "date": 1763551825000,
-                    "heartbeat_time": 1763551827000,
-                    "lat": -23.277067184448242,
+                    "date": 1763566223000,
+                    "heartbeat_time": 1763566224000,
+                    "lat": -23.277114868164062,
                     "latlng_valid": 1,
-                    "lng": -46.74405288696289,
-                    "location_date": 1763551825000,
-                    "network_signal": 86
+                    "lng": -46.743995666503906,
+                    "location_date": 1763566223000,
+                    "network_signal": 79
                 },
                 "config": {
                     "name": "44071685875-271063"
@@ -94771,13 +94771,13 @@
                 "imei": "1000000000039924",
                 "status": {
                     "address": "",
-                    "date": 1763519799000,
-                    "heartbeat_time": 1763519801000,
-                    "lat": -23.511117935180664,
-                    "latlng_valid": 0,
-                    "lng": -46.688133239746094,
-                    "location_date": 1763519799000,
-                    "network_signal": 58
+                    "date": 1763562992000,
+                    "heartbeat_time": 1763562995000,
+                    "lat": -23.511754989624023,
+                    "latlng_valid": 1,
+                    "lng": -46.68865966796875,
+                    "location_date": 1763562992000,
+                    "network_signal": 0
                 },
                 "config": {
                     "name": "28197643806-494972"
@@ -100535,21 +100535,21 @@
                 "imei": "1000000000040247",
                 "status": {
                     "address": "",
-                    "date": 1763516096000,
-                    "heartbeat_time": 1763516103000,
+                    "date": 1763559295000,
+                    "heartbeat_time": 1763559298000,
                     "lat": -23.680984497070312,
                     "latlng_valid": 0,
                     "lng": -46.50008010864258,
-                    "location_date": 1763516096000,
-                    "network_signal": 27
+                    "location_date": 1763559295000,
+                    "network_signal": 34
                 },
                 "config": {
                     "name": "28321171800-69673"
                 },
                 "device_key": "869487062943856",
                 "lbs_position": {
-                    "lat": -23.67875576,
-                    "lng": -46.49671555
+                    "lat": -23.67687821,
+                    "lng": -46.49727345
                 }
             },
             {
@@ -101943,21 +101943,21 @@
                 "imei": "1000000000040325",
                 "status": {
                     "address": "",
-                    "date": 1763516206000,
-                    "heartbeat_time": 1763516207000,
+                    "date": 1763559403000,
+                    "heartbeat_time": 1763559405000,
                     "lat": -21.301870346069336,
                     "latlng_valid": 0,
                     "lng": -50.33982467651367,
-                    "location_date": 1763516206000,
-                    "network_signal": 86
+                    "location_date": 1763559403000,
+                    "network_signal": 75
                 },
                 "config": {
                     "name": "39182063869-182801"
                 },
                 "device_key": "869487062945711",
                 "lbs_position": {
-                    "lat": -19.86625314,
-                    "lng": -43.93758774
+                    "lat": -19.86563087,
+                    "lng": -43.93784523
                 }
             },
             {
@@ -103373,12 +103373,12 @@
                 "imei": "1000000000040400",
                 "status": {
                     "address": "",
-                    "date": 1763509732000,
-                    "heartbeat_time": 1763509735000,
+                    "date": 1763552930000,
+                    "heartbeat_time": 1763552931000,
                     "lat": -23.54451560974121,
                     "latlng_valid": 0,
                     "lng": -46.48902130126953,
-                    "location_date": 1763509732000,
+                    "location_date": 1763552930000,
                     "network_signal": 100
                 },
                 "config": {
@@ -105595,13 +105595,13 @@
                 "imei": "1000000000040514",
                 "status": {
                     "address": "",
-                    "date": 1763516010000,
-                    "heartbeat_time": 1763516011000,
-                    "lat": -23.763050079345703,
-                    "latlng_valid": 0,
-                    "lng": -45.72621154785156,
-                    "location_date": 1763516010000,
-                    "network_signal": 31
+                    "date": 1763559203000,
+                    "heartbeat_time": 1763559204000,
+                    "lat": -23.759586334228516,
+                    "latlng_valid": 1,
+                    "lng": -45.726985931396484,
+                    "location_date": 1763559203000,
+                    "network_signal": 0
                 },
                 "config": {
                     "name": "05071825538-245244"
@@ -106431,13 +106431,13 @@
                 "imei": "1000000000040557",
                 "status": {
                     "address": "",
-                    "date": 1763520728000,
-                    "heartbeat_time": 1763520730000,
-                    "lat": -23.103788375854492,
+                    "date": 1763563931000,
+                    "heartbeat_time": 1763563933000,
+                    "lat": -23.103689193725586,
                     "latlng_valid": 1,
-                    "lng": -46.953067779541016,
-                    "location_date": 1763520728000,
-                    "network_signal": 72
+                    "lng": -46.95296096801758,
+                    "location_date": 1763563931000,
+                    "network_signal": 0
                 },
                 "config": {
                     "name": "03554020508-182722"
@@ -107069,12 +107069,12 @@
                 "imei": "1000000000040592",
                 "status": {
                     "address": "",
-                    "date": 1763515801000,
-                    "heartbeat_time": 1763515804000,
-                    "lat": -23.486454010009766,
+                    "date": 1763559004000,
+                    "heartbeat_time": 1763559006000,
+                    "lat": -23.548521041870117,
                     "latlng_valid": 1,
-                    "lng": -46.28318786621094,
-                    "location_date": 1763515801000,
+                    "lng": -46.3377799987793,
+                    "location_date": 1763559004000,
                     "network_signal": 0
                 },
                 "config": {
@@ -107201,13 +107201,13 @@
                 "imei": "1000000000040598",
                 "status": {
                     "address": "",
-                    "date": 1763512269000,
-                    "heartbeat_time": 1763512269000,
-                    "lat": -23.93999671936035,
-                    "latlng_valid": 0,
-                    "lng": -46.39327621459961,
-                    "location_date": 1763512269000,
-                    "network_signal": 55
+                    "date": 1763555450000,
+                    "heartbeat_time": 1763555453000,
+                    "lat": -23.939855575561523,
+                    "latlng_valid": 1,
+                    "lng": -46.393516540527344,
+                    "location_date": 1763555450000,
+                    "network_signal": 0
                 },
                 "config": {
                     "name": "16233480809-251355"
@@ -110198,13 +110198,13 @@
                 "imei": "1000000000040769",
                 "status": {
                     "address": "",
-                    "date": 1763510561000,
-                    "heartbeat_time": 1763510561000,
-                    "lat": -23.94368553161621,
-                    "latlng_valid": 0,
-                    "lng": -46.31937789916992,
-                    "location_date": 1763510561000,
-                    "network_signal": 75
+                    "date": 1763553754000,
+                    "heartbeat_time": 1763553755000,
+                    "lat": -23.963970184326172,
+                    "latlng_valid": 1,
+                    "lng": -46.33577346801758,
+                    "location_date": 1763553754000,
+                    "network_signal": 100
                 },
                 "config": {
                     "name": "34562916800-468356"
@@ -112266,21 +112266,21 @@
                 "imei": "1000000000040884",
                 "status": {
                     "address": "",
-                    "date": 1763528436000,
-                    "heartbeat_time": 1763528437000,
+                    "date": 1763558817000,
+                    "heartbeat_time": 1763558818000,
                     "lat": -23.95755958557129,
                     "latlng_valid": 0,
                     "lng": -46.38593292236328,
-                    "location_date": 1763528436000,
-                    "network_signal": 55
+                    "location_date": 1763558817000,
+                    "network_signal": 82
                 },
                 "config": {
                     "name": "32026599874-355950"
                 },
                 "device_key": "869487062966246",
                 "lbs_position": {
-                    "lat": -23.65625739,
-                    "lng": -46.5290308
+                    "lat": -23.65687966,
+                    "lng": -46.52815104
                 }
             },
             {
@@ -112420,21 +112420,21 @@
                 "imei": "1000000000040892",
                 "status": {
                     "address": "",
-                    "date": 1763521183000,
-                    "heartbeat_time": 1763521185000,
+                    "date": 1763564379000,
+                    "heartbeat_time": 1763564381000,
                     "lat": -23.527555465698242,
                     "latlng_valid": 0,
                     "lng": -46.56296920776367,
-                    "location_date": 1763521183000,
-                    "network_signal": 44
+                    "location_date": 1763564379000,
+                    "network_signal": 48
                 },
                 "config": {
                     "name": "18682497867-365996"
                 },
                 "device_key": "869487062966428",
                 "lbs_position": {
-                    "lat": -23.53375554,
-                    "lng": -46.43667698
+                    "lat": -23.53000045,
+                    "lng": -46.43036842
                 }
             },
             {
@@ -112794,21 +112794,21 @@
                 "imei": "1000000000040910",
                 "status": {
                     "address": "",
-                    "date": 1763514051000,
-                    "heartbeat_time": 1763514059000,
+                    "date": 1763557255000,
+                    "heartbeat_time": 1763557257000,
                     "lat": -23.678422927856445,
                     "latlng_valid": 0,
                     "lng": -46.581512451171875,
-                    "location_date": 1763514051000,
-                    "network_signal": 55
+                    "location_date": 1763557255000,
+                    "network_signal": 41
                 },
                 "config": {
                     "name": "31303772809-379789"
                 },
                 "device_key": "869487062967681",
                 "lbs_position": {
-                    "lat": -23.70063186,
-                    "lng": -46.62786484
+                    "lat": -23.70875359,
+                    "lng": -46.62820816
                 }
             },
             {
@@ -118404,13 +118404,13 @@
                 "imei": "1000000000041223",
                 "status": {
                     "address": "",
-                    "date": 1763551805000,
-                    "heartbeat_time": 1763551807000,
-                    "lat": -23.425809860229492,
+                    "date": 1763566203000,
+                    "heartbeat_time": 1763566205000,
+                    "lat": -23.519418716430664,
                     "latlng_valid": 1,
-                    "lng": -46.52219772338867,
-                    "location_date": 1763551805000,
-                    "network_signal": 86
+                    "lng": -46.582393646240234,
+                    "location_date": 1763566203000,
+                    "network_signal": 96
                 },
                 "config": {
                     "name": "16336712591-476491"
@@ -118778,21 +118778,21 @@
                 "imei": "1000000000041247",
                 "status": {
                     "address": "",
-                    "date": 1763516390000,
-                    "heartbeat_time": 1763516391000,
+                    "date": 1763559598000,
+                    "heartbeat_time": 1763559600000,
                     "lat": -23.515562057495117,
                     "latlng_valid": 0,
                     "lng": -46.45346450805664,
-                    "location_date": 1763516390000,
-                    "network_signal": 65
+                    "location_date": 1763559598000,
+                    "network_signal": 86
                 },
                 "config": {
                     "name": "08745936897-427331"
                 },
                 "device_key": "869487062977870",
                 "lbs_position": {
-                    "lat": -23.51250172,
-                    "lng": -46.4530921
+                    "lat": -23.55375409,
+                    "lng": -46.65318489
                 }
             },
             {
@@ -122672,21 +122672,21 @@
                 "imei": "1000000000041463",
                 "status": {
                     "address": "",
-                    "date": 1763514147000,
-                    "heartbeat_time": 1763514149000,
+                    "date": 1763557357000,
+                    "heartbeat_time": 1763557359000,
                     "lat": -23.448501586914062,
-                    "latlng_valid": 1,
+                    "latlng_valid": 0,
                     "lng": -46.46834182739258,
-                    "location_date": 1763514147000,
-                    "network_signal": 0
+                    "location_date": 1763557357000,
+                    "network_signal": 86
                 },
                 "config": {
                     "name": "05817029480-442726"
                 },
                 "device_key": "869487062983977",
                 "lbs_position": {
-                    "lat": -23.45188379,
-                    "lng": -46.46871328
+                    "lat": -23.4393847,
+                    "lng": -46.40867472
                 }
             },
             {
@@ -124080,13 +124080,13 @@
                 "imei": "1000000000041535",
                 "status": {
                     "address": "",
-                    "date": 1763515509000,
-                    "heartbeat_time": 1763515509000,
-                    "lat": -23.600557327270508,
-                    "latlng_valid": 0,
-                    "lng": -46.8715934753418,
-                    "location_date": 1763515509000,
-                    "network_signal": 48
+                    "date": 1763558702000,
+                    "heartbeat_time": 1763558704000,
+                    "lat": -23.601171493530273,
+                    "latlng_valid": 1,
+                    "lng": -46.871253967285156,
+                    "location_date": 1763558702000,
+                    "network_signal": 68
                 },
                 "config": {
                     "name": "07886354680-332445"
@@ -124542,13 +124542,13 @@
                 "imei": "1000000000041565",
                 "status": {
                     "address": "",
-                    "date": 1763510318000,
-                    "heartbeat_time": 1763510321000,
-                    "lat": -23.441974639892578,
+                    "date": 1763553524000,
+                    "heartbeat_time": 1763553525000,
+                    "lat": -23.441694259643555,
                     "latlng_valid": 1,
-                    "lng": -46.42108917236328,
-                    "location_date": 1763510318000,
-                    "network_signal": 0
+                    "lng": -46.421024322509766,
+                    "location_date": 1763553524000,
+                    "network_signal": 68
                 },
                 "config": {
                     "name": "43000765883-167489"
@@ -128876,13 +128876,13 @@
                 "imei": "1000000000041799",
                 "status": {
                     "address": "",
-                    "date": 1763521357000,
-                    "heartbeat_time": 1763521360000,
+                    "date": 1763564518000,
+                    "heartbeat_time": 1763564520000,
                     "lat": -23.655954360961914,
                     "latlng_valid": 0,
                     "lng": -46.437068939208984,
-                    "location_date": 1763521357000,
-                    "network_signal": 48
+                    "location_date": 1763564518000,
+                    "network_signal": 55
                 },
                 "config": {
                     "name": "46250687890-421317"
@@ -130306,13 +130306,13 @@
                 "imei": "1000000000041879",
                 "status": {
                     "address": "",
-                    "date": 1763519700000,
-                    "heartbeat_time": 1763519701000,
-                    "lat": -23.638416290283203,
+                    "date": 1763562903000,
+                    "heartbeat_time": 1763562905000,
+                    "lat": -23.638442993164062,
                     "latlng_valid": 1,
-                    "lng": -46.61319351196289,
-                    "location_date": 1763519700000,
-                    "network_signal": 93
+                    "lng": -46.61324691772461,
+                    "location_date": 1763562903000,
+                    "network_signal": 0
                 },
                 "config": {
                     "name": "82567387315-360044"
@@ -130416,13 +130416,13 @@
                 "imei": "1000000000041887",
                 "status": {
                     "address": "",
-                    "date": 1763516813000,
-                    "heartbeat_time": 1763516814000,
+                    "date": 1763560011000,
+                    "heartbeat_time": 1763560013000,
                     "lat": -23.643274307250977,
                     "latlng_valid": 0,
                     "lng": -46.805904388427734,
-                    "location_date": 1763516813000,
-                    "network_signal": 96
+                    "location_date": 1763560011000,
+                    "network_signal": 86
                 },
                 "config": {
                     "name": "06495815557-455990"
@@ -130430,7 +130430,7 @@
                 "device_key": "869487062997035",
                 "lbs_position": {
                     "lat": -23.64500284,
-                    "lng": -46.81192875
+                    "lng": -46.81252956
                 }
             },
             {
@@ -131076,12 +131076,12 @@
                 "imei": "1000000000041920",
                 "status": {
                     "address": "",
-                    "date": 1763516337000,
-                    "heartbeat_time": 1763516339000,
-                    "lat": -23.63544273376465,
+                    "date": 1763559529000,
+                    "heartbeat_time": 1763559533000,
+                    "lat": -23.607620239257812,
                     "latlng_valid": 1,
-                    "lng": -46.953277587890625,
-                    "location_date": 1763516337000,
+                    "lng": -46.75282287597656,
+                    "location_date": 1763559529000,
                     "network_signal": 0
                 },
                 "config": {
@@ -131296,12 +131296,12 @@
                 "imei": "1000000000041934",
                 "status": {
                     "address": "",
-                    "date": 1763550310000,
-                    "heartbeat_time": 1763550310000,
-                    "lat": -23.552640914916992,
+                    "date": 1763566508000,
+                    "heartbeat_time": 1763566509000,
+                    "lat": -23.63300895690918,
                     "latlng_valid": 1,
-                    "lng": -46.611351013183594,
-                    "location_date": 1763550310000,
+                    "lng": -46.689334869384766,
+                    "location_date": 1763566508000,
                     "network_signal": 100
                 },
                 "config": {
@@ -131309,8 +131309,8 @@
                 },
                 "device_key": "869487062998132",
                 "lbs_position": {
-                    "lat": -23.66500139,
-                    "lng": -46.46167517
+                    "lat": -23.58062983,
+                    "lng": -46.69058561
                 }
             },
             {
@@ -132616,13 +132616,13 @@
                 "imei": "1000000000042007",
                 "status": {
                     "address": "",
-                    "date": 1763522268000,
-                    "heartbeat_time": 1763522269000,
-                    "lat": -23.724281311035156,
+                    "date": 1763565472000,
+                    "heartbeat_time": 1763565472000,
+                    "lat": -23.724468231201172,
                     "latlng_valid": 1,
-                    "lng": -46.70846939086914,
-                    "location_date": 1763522268000,
-                    "network_signal": 100
+                    "lng": -46.70860290527344,
+                    "location_date": 1763565472000,
+                    "network_signal": 0
                 },
                 "config": {
                     "name": "06329595410-405728"
@@ -133760,21 +133760,21 @@
                 "imei": "1000000000042076",
                 "status": {
                     "address": "",
-                    "date": 1763519474000,
-                    "heartbeat_time": 1763519476000,
+                    "date": 1763562683000,
+                    "heartbeat_time": 1763562684000,
                     "lat": 0,
                     "latlng_valid": 0,
                     "lng": 0,
-                    "location_date": 1763519474000,
-                    "network_signal": 41
+                    "location_date": 1763562683000,
+                    "network_signal": 31
                 },
                 "config": {
                     "name": "32740086806-357155"
                 },
                 "device_key": "869487063005903",
                 "lbs_position": {
-                    "lat": -23.49875808,
-                    "lng": -46.76967859
+                    "lat": -23.53625536,
+                    "lng": -46.77839041
                 }
             },
             {
@@ -134750,13 +134750,13 @@
                 "imei": "1000000000042132",
                 "status": {
                     "address": "",
-                    "date": 1763514110000,
-                    "heartbeat_time": 1763514110000,
+                    "date": 1763557318000,
+                    "heartbeat_time": 1763557320000,
                     "lat": -23.673240661621094,
                     "latlng_valid": 0,
                     "lng": -46.60531234741211,
-                    "location_date": 1763514110000,
-                    "network_signal": 62
+                    "location_date": 1763557318000,
+                    "network_signal": 55
                 },
                 "config": {
                     "name": "66977789891-207010"
@@ -142318,13 +142318,13 @@
                 "imei": "1000000000042541",
                 "status": {
                     "address": "",
-                    "date": 1763521153000,
-                    "heartbeat_time": 1763521153000,
-                    "lat": -23.147785186767578,
-                    "latlng_valid": 0,
-                    "lng": -46.95887756347656,
-                    "location_date": 1763521153000,
-                    "network_signal": 68
+                    "date": 1763564344000,
+                    "heartbeat_time": 1763564347000,
+                    "lat": -23.147613525390625,
+                    "latlng_valid": 1,
+                    "lng": -46.95885467529297,
+                    "location_date": 1763564344000,
+                    "network_signal": 0
                 },
                 "config": {
                     "name": "15246939871-200816"
@@ -143770,21 +143770,21 @@
                 "imei": "1000000000042626",
                 "status": {
                     "address": "",
-                    "date": 1763550315000,
-                    "heartbeat_time": 1763550315000,
+                    "date": 1763566513000,
+                    "heartbeat_time": 1763566515000,
                     "lat": -23.55788803100586,
                     "latlng_valid": 0,
                     "lng": -46.333492279052734,
-                    "location_date": 1763550315000,
-                    "network_signal": 51
+                    "location_date": 1763566513000,
+                    "network_signal": 44
                 },
                 "config": {
                     "name": "34065524806-365033"
                 },
                 "device_key": "869487063535461",
                 "lbs_position": {
-                    "lat": -23.559376,
-                    "lng": -46.32810116
+                    "lat": -23.55813146,
+                    "lng": -46.32531166
                 }
             },
             {
@@ -145359,13 +145359,13 @@
                 "imei": "1000000000042714",
                 "status": {
                     "address": "",
-                    "date": 1763514661000,
-                    "heartbeat_time": 1763514662000,
-                    "lat": -23.704614639282227,
-                    "latlng_valid": 0,
-                    "lng": -46.49858093261719,
-                    "location_date": 1763514661000,
-                    "network_signal": 51
+                    "date": 1763557853000,
+                    "heartbeat_time": 1763557855000,
+                    "lat": -23.70464515686035,
+                    "latlng_valid": 1,
+                    "lng": -46.49861145019531,
+                    "location_date": 1763557853000,
+                    "network_signal": 0
                 },
                 "config": {
                     "name": "53295675805-161728"
@@ -145513,12 +145513,12 @@
                 "imei": "1000000000042724",
                 "status": {
                     "address": "",
-                    "date": 1763514035000,
-                    "heartbeat_time": 1763514036000,
-                    "lat": -22.514339447021484,
+                    "date": 1763557226000,
+                    "heartbeat_time": 1763557229000,
+                    "lat": -22.677227020263672,
                     "latlng_valid": 1,
-                    "lng": -47.769737243652344,
-                    "location_date": 1763514035000,
+                    "lng": -47.63225555419922,
+                    "location_date": 1763557226000,
                     "network_signal": 0
                 },
                 "config": {
@@ -145645,21 +145645,21 @@
                 "imei": "1000000000042731",
                 "status": {
                     "address": "",
-                    "date": 1763515324000,
-                    "heartbeat_time": 1763515327000,
+                    "date": 1763558525000,
+                    "heartbeat_time": 1763558526000,
                     "lat": 22.711551666259766,
                     "latlng_valid": 0,
                     "lng": 113.84416198730469,
-                    "location_date": 1763515324000,
-                    "network_signal": 55
+                    "location_date": 1763558525000,
+                    "network_signal": 68
                 },
                 "config": {
                     "name": "27194075857-417580"
                 },
                 "device_key": "869487063538002",
                 "lbs_position": {
-                    "lat": -23.63375902,
-                    "lng": -46.60494804
+                    "lat": -23.6312592,
+                    "lng": -46.60763025
                 }
             },
             {
@@ -146613,21 +146613,21 @@
                 "imei": "1000000000042781",
                 "status": {
                     "address": "",
-                    "date": 1763520949000,
-                    "heartbeat_time": 1763520949000,
+                    "date": 1763564148000,
+                    "heartbeat_time": 1763564148000,
                     "lat": -23.41945457458496,
                     "latlng_valid": 0,
                     "lng": -46.45500564575195,
-                    "location_date": 1763520949000,
-                    "network_signal": 55
+                    "location_date": 1763564148000,
+                    "network_signal": 34
                 },
                 "config": {
                     "name": "14365720880-144651"
                 },
                 "device_key": "869487063539034",
                 "lbs_position": {
-                    "lat": -23.42563033,
-                    "lng": -46.438694
+                    "lat": -23.44625115,
+                    "lng": -46.49414063
                 }
             },
             {
@@ -147163,13 +147163,13 @@
                 "imei": "1000000000042808",
                 "status": {
                     "address": "",
-                    "date": 1763520412000,
-                    "heartbeat_time": 1763520414000,
-                    "lat": -23.645124435424805,
-                    "latlng_valid": 0,
-                    "lng": -46.506317138671875,
-                    "location_date": 1763520412000,
-                    "network_signal": 75
+                    "date": 1763563594000,
+                    "heartbeat_time": 1763563596000,
+                    "lat": -23.645048141479492,
+                    "latlng_valid": 1,
+                    "lng": -46.50631332397461,
+                    "location_date": 1763563594000,
+                    "network_signal": 0
                 },
                 "config": {
                     "name": "36711856864-407044"
@@ -147383,12 +147383,12 @@
                 "imei": "1000000000042822",
                 "status": {
                     "address": "",
-                    "date": 1763517626000,
-                    "heartbeat_time": 1763517627000,
+                    "date": 1763560825000,
+                    "heartbeat_time": 1763560827000,
                     "lat": 22.711544036865234,
                     "latlng_valid": 0,
                     "lng": 113.84423828125,
-                    "location_date": 1763517626000,
+                    "location_date": 1763560825000,
                     "network_signal": 51
                 },
                 "config": {
@@ -148967,13 +148967,13 @@
                 "imei": "1000000000042914",
                 "status": {
                     "address": "",
-                    "date": 1763518816000,
-                    "heartbeat_time": 1763518818000,
+                    "date": 1763562014000,
+                    "heartbeat_time": 1763562016000,
                     "lat": -23.544233322143555,
                     "latlng_valid": 0,
                     "lng": -46.41311264038086,
-                    "location_date": 1763518816000,
-                    "network_signal": 51
+                    "location_date": 1763562014000,
+                    "network_signal": 41
                 },
                 "config": {
                     "name": "30627624898-238619"
@@ -150837,13 +150837,13 @@
                 "imei": "1000000000043012",
                 "status": {
                     "address": "",
-                    "date": 1763517555000,
-                    "heartbeat_time": 1763517558000,
-                    "lat": -23.401845932006836,
+                    "date": 1763560751000,
+                    "heartbeat_time": 1763560751000,
+                    "lat": -23.59337043762207,
                     "latlng_valid": 1,
-                    "lng": -46.45089340209961,
-                    "location_date": 1763517555000,
-                    "network_signal": 0
+                    "lng": -46.59501647949219,
+                    "location_date": 1763560751000,
+                    "network_signal": 75
                 },
                 "config": {
                     "name": "68990839653-486313"
@@ -152355,13 +152355,13 @@
                 "imei": "1000000000043097",
                 "status": {
                     "address": "",
-                    "date": 1763518813000,
-                    "heartbeat_time": 1763518815000,
-                    "lat": -23.434720993041992,
+                    "date": 1763562007000,
+                    "heartbeat_time": 1763562008000,
+                    "lat": -23.455381393432617,
                     "latlng_valid": 1,
-                    "lng": -46.71348190307617,
-                    "location_date": 1763518813000,
-                    "network_signal": 0
+                    "lng": -46.735992431640625,
+                    "location_date": 1763562007000,
+                    "network_signal": 75
                 },
                 "config": {
                     "name": "43039052837-356471"
@@ -153103,13 +153103,13 @@
                 "imei": "1000000000043137",
                 "status": {
                     "address": "",
-                    "date": 1763550594000,
-                    "heartbeat_time": 1763550597000,
-                    "lat": -23.54177474975586,
+                    "date": 1763566811000,
+                    "heartbeat_time": 1763566813000,
+                    "lat": -23.541946411132812,
                     "latlng_valid": 1,
-                    "lng": -46.843929290771484,
-                    "location_date": 1763550594000,
-                    "network_signal": 0
+                    "lng": -46.843849182128906,
+                    "location_date": 1763566811000,
+                    "network_signal": 100
                 },
                 "config": {
                     "name": "36301254848-87043"
@@ -155765,13 +155765,13 @@
                 "imei": "1000000000043279",
                 "status": {
                     "address": "",
-                    "date": 1763518857000,
-                    "heartbeat_time": 1763518858000,
-                    "lat": -23.683795928955078,
+                    "date": 1763562061000,
+                    "heartbeat_time": 1763562063000,
+                    "lat": -23.69276237487793,
                     "latlng_valid": 1,
-                    "lng": -46.62116622924805,
-                    "location_date": 1763518857000,
-                    "network_signal": 27
+                    "lng": -46.62801742553711,
+                    "location_date": 1763562061000,
+                    "network_signal": 0
                 },
                 "config": {
                     "name": "41736929860-455657"
@@ -155919,21 +155919,21 @@
                 "imei": "1000000000043287",
                 "status": {
                     "address": "",
-                    "date": 1763516029000,
-                    "heartbeat_time": 1763516038000,
+                    "date": 1763559255000,
+                    "heartbeat_time": 1763559256000,
                     "lat": -22.870134353637695,
                     "latlng_valid": 0,
                     "lng": -47.21119689941406,
-                    "location_date": 1763516029000,
-                    "network_signal": 24
+                    "location_date": 1763559255000,
+                    "network_signal": 27
                 },
                 "config": {
                     "name": "35719250840-299402"
                 },
                 "device_key": "869487063550445",
                 "lbs_position": {
-                    "lat": null,
-                    "lng": null
+                    "lat": -22.88375974,
+                    "lng": -47.21449614
                 }
             },
             {
@@ -157041,21 +157041,21 @@
                 "imei": "1000000000043342",
                 "status": {
                     "address": "",
-                    "date": 1763515149000,
-                    "heartbeat_time": 1763515150000,
+                    "date": 1763558348000,
+                    "heartbeat_time": 1763558349000,
                     "lat": -23.55095100402832,
                     "latlng_valid": 0,
                     "lng": -46.620487213134766,
-                    "location_date": 1763515149000,
-                    "network_signal": 58
+                    "location_date": 1763558348000,
+                    "network_signal": 48
                 },
                 "config": {
                     "name": "19850895802-433594"
                 },
                 "device_key": "869487063551849",
                 "lbs_position": {
-                    "lat": -23.51875663,
-                    "lng": -46.57177448
+                    "lat": -23.51563454,
+                    "lng": -46.57467127
                 }
             },
             {
@@ -157261,13 +157261,13 @@
                 "imei": "1000000000043355",
                 "status": {
                     "address": "",
-                    "date": 1763514834000,
-                    "heartbeat_time": 1763514836000,
-                    "lat": -23.72846794128418,
-                    "latlng_valid": 0,
-                    "lng": -46.787200927734375,
-                    "location_date": 1763514834000,
-                    "network_signal": 58
+                    "date": 1763558038000,
+                    "heartbeat_time": 1763558039000,
+                    "lat": -23.728466033935547,
+                    "latlng_valid": 1,
+                    "lng": -46.78717803955078,
+                    "location_date": 1763558038000,
+                    "network_signal": 0
                 },
                 "config": {
                     "name": "39124599832-190899"
@@ -157525,13 +157525,13 @@
                 "imei": "1000000000043369",
                 "status": {
                     "address": "",
-                    "date": 1763514296000,
-                    "heartbeat_time": 1763514297000,
-                    "lat": -23.543458938598633,
+                    "date": 1763557498000,
+                    "heartbeat_time": 1763557500000,
+                    "lat": -23.556459426879883,
                     "latlng_valid": 1,
-                    "lng": -46.31184005737305,
-                    "location_date": 1763514296000,
-                    "network_signal": 79
+                    "lng": -46.33425521850586,
+                    "location_date": 1763557498000,
+                    "network_signal": 0
                 },
                 "config": {
                     "name": "47635518844-126869"
@@ -157679,21 +157679,21 @@
                 "imei": "1000000000043377",
                 "status": {
                     "address": "",
-                    "date": 1763517355000,
-                    "heartbeat_time": 1763517356000,
+                    "date": 1763560552000,
+                    "heartbeat_time": 1763560555000,
                     "lat": -23.45815086364746,
                     "latlng_valid": 0,
                     "lng": -46.411155700683594,
-                    "location_date": 1763517355000,
-                    "network_signal": 51
+                    "location_date": 1763560552000,
+                    "network_signal": 65
                 },
                 "config": {
                     "name": "32380470430-446717"
                 },
                 "device_key": "869487063552466",
                 "lbs_position": {
-                    "lat": -23.45312834,
-                    "lng": -46.41614199
+                    "lat": -23.40000987,
+                    "lng": -46.44998074
                 }
             },
             {
@@ -158119,12 +158119,12 @@
                 "imei": "1000000000043405",
                 "status": {
                     "address": "",
-                    "date": 1763521011000,
-                    "heartbeat_time": 1763521012000,
-                    "lat": -23.580142974853516,
+                    "date": 1763564202000,
+                    "heartbeat_time": 1763564204000,
+                    "lat": -23.580392837524414,
                     "latlng_valid": 1,
-                    "lng": -46.554229736328125,
-                    "location_date": 1763521011000,
+                    "lng": -46.554161071777344,
+                    "location_date": 1763564202000,
                     "network_signal": 0
                 },
                 "config": {
@@ -159043,13 +159043,13 @@
                 "imei": "1000000000043453",
                 "status": {
                     "address": "",
-                    "date": 1763512989000,
-                    "heartbeat_time": 1763512990000,
-                    "lat": -23.54976463317871,
-                    "latlng_valid": 0,
-                    "lng": -46.537086486816406,
-                    "location_date": 1763512989000,
-                    "network_signal": 55
+                    "date": 1763556183000,
+                    "heartbeat_time": 1763556184000,
+                    "lat": -23.535696029663086,
+                    "latlng_valid": 1,
+                    "lng": -46.552982330322266,
+                    "location_date": 1763556183000,
+                    "network_signal": 96
                 },
                 "config": {
                     "name": "42912761840-157484"
@@ -159109,13 +159109,13 @@
                 "imei": "1000000000043457",
                 "status": {
                     "address": "",
-                    "date": 1763522120000,
-                    "heartbeat_time": 1763522124000,
-                    "lat": -23.397016525268555,
-                    "latlng_valid": 0,
-                    "lng": -46.32926559448242,
-                    "location_date": 1763522120000,
-                    "network_signal": 100
+                    "date": 1763565316000,
+                    "heartbeat_time": 1763565317000,
+                    "lat": -23.40871238708496,
+                    "latlng_valid": 1,
+                    "lng": -46.31547164916992,
+                    "location_date": 1763565316000,
+                    "network_signal": 65
                 },
                 "config": {
                     "name": "35790323804-79478"
@@ -160803,21 +160803,21 @@
                 "imei": "1000000000043544",
                 "status": {
                     "address": "",
-                    "date": 1763515697000,
-                    "heartbeat_time": 1763515700000,
+                    "date": 1763558898000,
+                    "heartbeat_time": 1763558899000,
                     "lat": -23.541107177734375,
                     "latlng_valid": 0,
                     "lng": -46.362098693847656,
-                    "location_date": 1763515697000,
-                    "network_signal": 62
+                    "location_date": 1763558898000,
+                    "network_signal": 75
                 },
                 "config": {
                     "name": "23001584858-373905"
                 },
                 "device_key": "869487063555709",
                 "lbs_position": {
-                    "lat": -23.55125427,
-                    "lng": -46.38897657
+                    "lat": -23.55437636,
+                    "lng": -46.39150858
                 }
             },
             {
@@ -162167,21 +162167,21 @@
                 "imei": "1000000000043625",
                 "status": {
                     "address": "",
-                    "date": 1763520926000,
-                    "heartbeat_time": 1763520929000,
+                    "date": 1763564125000,
+                    "heartbeat_time": 1763564127000,
                     "lat": -23.62643051147461,
                     "latlng_valid": 0,
                     "lng": -46.69071578979492,
-                    "location_date": 1763520926000,
-                    "network_signal": 58
+                    "location_date": 1763564125000,
+                    "network_signal": 100
                 },
                 "config": {
                     "name": "41061446891-370063"
                 },
                 "device_key": "869487063557267",
                 "lbs_position": {
-                    "lat": -23.53937745,
-                    "lng": -46.7154336
+                    "lat": -23.62750411,
+                    "lng": -46.68938398
                 }
             },
             {
@@ -162387,13 +162387,13 @@
                 "imei": "1000000000043635",
                 "status": {
                     "address": "",
-                    "date": 1763515724000,
-                    "heartbeat_time": 1763515727000,
-                    "lat": -23.685771942138672,
-                    "latlng_valid": 0,
-                    "lng": -46.63658142089844,
-                    "location_date": 1763515724000,
-                    "network_signal": 75
+                    "date": 1763558918000,
+                    "heartbeat_time": 1763558921000,
+                    "lat": -23.685768127441406,
+                    "latlng_valid": 1,
+                    "lng": -46.63674545288086,
+                    "location_date": 1763558918000,
+                    "network_signal": 0
                 },
                 "config": {
                     "name": "26319913894-333756"
@@ -163069,13 +163069,13 @@
                 "imei": "1000000000043675",
                 "status": {
                     "address": "",
-                    "date": 1763518729000,
-                    "heartbeat_time": 1763518732000,
+                    "date": 1763561929000,
+                    "heartbeat_time": 1763561930000,
                     "lat": -23.462841033935547,
                     "latlng_valid": 0,
                     "lng": -46.442508697509766,
-                    "location_date": 1763518729000,
-                    "network_signal": 72
+                    "location_date": 1763561929000,
+                    "network_signal": 82
                 },
                 "config": {
                     "name": "35910392840-213012"
@@ -164895,12 +164895,12 @@
                 "imei": "1000000000043777",
                 "status": {
                     "address": "",
-                    "date": 1763519686000,
-                    "heartbeat_time": 1763519687000,
-                    "lat": -23.512649536132812,
+                    "date": 1763562890000,
+                    "heartbeat_time": 1763562892000,
+                    "lat": -23.516904830932617,
                     "latlng_valid": 1,
-                    "lng": -46.774757385253906,
-                    "location_date": 1763519686000,
+                    "lng": -46.71615219116211,
+                    "location_date": 1763562890000,
                     "network_signal": 0
                 },
                 "config": {
@@ -165599,13 +165599,13 @@
                 "imei": "1000000000043816",
                 "status": {
                     "address": "",
-                    "date": 1763512125000,
-                    "heartbeat_time": 1763512127000,
+                    "date": 1763555326000,
+                    "heartbeat_time": 1763555327000,
                     "lat": 0,
                     "latlng_valid": 0,
                     "lng": 0,
-                    "location_date": 1763512125000,
-                    "network_signal": 37
+                    "location_date": 1763555326000,
+                    "network_signal": 48
                 },
                 "config": {
                     "name": "36509282801-348555"
@@ -166435,13 +166435,13 @@
                 "imei": "1000000000043867",
                 "status": {
                     "address": "",
-                    "date": 1763519760000,
-                    "heartbeat_time": 1763519762000,
-                    "lat": -23.4377384185791,
-                    "latlng_valid": 0,
-                    "lng": -46.54462814331055,
-                    "location_date": 1763519760000,
-                    "network_signal": 55
+                    "date": 1763562960000,
+                    "heartbeat_time": 1763562962000,
+                    "lat": -23.438146591186523,
+                    "latlng_valid": 1,
+                    "lng": -46.54439163208008,
+                    "location_date": 1763562960000,
+                    "network_signal": 0
                 },
                 "config": {
                     "name": "50857561855-358545"
@@ -170065,12 +170065,12 @@
                 "imei": "1000000000044064",
                 "status": {
                     "address": "",
-                    "date": 1763509304000,
-                    "heartbeat_time": 1763509307000,
-                    "lat": -23.423629760742188,
+                    "date": 1763552508000,
+                    "heartbeat_time": 1763552509000,
+                    "lat": -23.42360496520996,
                     "latlng_valid": 1,
-                    "lng": -46.34614562988281,
-                    "location_date": 1763509304000,
+                    "lng": -46.34553527832031,
+                    "location_date": 1763552508000,
                     "network_signal": 0
                 },
                 "config": {
@@ -171935,12 +171935,12 @@
                 "imei": "1000000000044172",
                 "status": {
                     "address": "",
-                    "date": 1763512872000,
-                    "heartbeat_time": 1763512874000,
-                    "lat": -23.50116729736328,
+                    "date": 1763556076000,
+                    "heartbeat_time": 1763556078000,
+                    "lat": -23.429481506347656,
                     "latlng_valid": 1,
-                    "lng": -46.68690872192383,
-                    "location_date": 1763512872000,
+                    "lng": -47.13737869262695,
+                    "location_date": 1763556076000,
                     "network_signal": 0
                 },
                 "config": {
@@ -172573,12 +172573,12 @@
                 "imei": "1000000000044204",
                 "status": {
                     "address": "",
-                    "date": 1763513674000,
-                    "heartbeat_time": 1763513676000,
-                    "lat": -22.777055740356445,
+                    "date": 1763556868000,
+                    "heartbeat_time": 1763556869000,
+                    "lat": -22.777023315429688,
                     "latlng_valid": 1,
-                    "lng": -47.321067810058594,
-                    "location_date": 1763513674000,
+                    "lng": -47.321109771728516,
+                    "location_date": 1763556868000,
                     "network_signal": 0
                 },
                 "config": {
@@ -174311,21 +174311,21 @@
                 "imei": "1000000000044295",
                 "status": {
                     "address": "",
-                    "date": 1763515245000,
-                    "heartbeat_time": 1763515247000,
+                    "date": 1763558445000,
+                    "heartbeat_time": 1763558446000,
                     "lat": -23.452919006347656,
                     "latlng_valid": 0,
                     "lng": -46.53103256225586,
-                    "location_date": 1763515245000,
-                    "network_signal": 86
+                    "location_date": 1763558445000,
+                    "network_signal": 100
                 },
                 "config": {
                     "name": "31696893801-367685"
                 },
                 "device_key": "869487063572068",
                 "lbs_position": {
-                    "lat": -23.46562743,
-                    "lng": -46.53473854
+                    "lat": -23.59812856,
+                    "lng": -46.48555756
                 }
             },
             {
@@ -175433,21 +175433,21 @@
                 "imei": "1000000000044357",
                 "status": {
                     "address": "",
-                    "date": 1763509978000,
-                    "heartbeat_time": 1763509979000,
+                    "date": 1763553177000,
+                    "heartbeat_time": 1763553178000,
                     "lat": -23.538728713989258,
                     "latlng_valid": 0,
                     "lng": -46.90547561645508,
-                    "location_date": 1763509978000,
-                    "network_signal": 34
+                    "location_date": 1763553177000,
+                    "network_signal": 51
                 },
                 "config": {
                     "name": "09987135625-192459"
                 },
                 "device_key": "869487063573488",
                 "lbs_position": {
-                    "lat": -23.53187799,
-                    "lng": -46.87868357
+                    "lat": -23.54501009,
+                    "lng": -46.89846754
                 }
             },
             {
@@ -180207,13 +180207,13 @@
                 "imei": "1000000000044627",
                 "status": {
                     "address": "",
-                    "date": 1763518019000,
-                    "heartbeat_time": 1763518020000,
-                    "lat": -23.532962799072266,
-                    "latlng_valid": 0,
-                    "lng": -46.67436981201172,
-                    "location_date": 1763518019000,
-                    "network_signal": 72
+                    "date": 1763561221000,
+                    "heartbeat_time": 1763561223000,
+                    "lat": -23.53285789489746,
+                    "latlng_valid": 1,
+                    "lng": -46.67460632324219,
+                    "location_date": 1763561221000,
+                    "network_signal": 0
                 },
                 "config": {
                     "name": "33205601823-480544"
@@ -185778,12 +185778,12 @@
                 "imei": "1000000000044932",
                 "status": {
                     "address": "",
-                    "date": 1763513996000,
-                    "heartbeat_time": 1763514000000,
+                    "date": 1763557197000,
+                    "heartbeat_time": 1763557198000,
                     "lat": 22.711523056030273,
                     "latlng_valid": 0,
                     "lng": 113.8442153930664,
-                    "location_date": 1763513996000,
+                    "location_date": 1763557197000,
                     "network_signal": 27
                 },
                 "config": {
@@ -185791,8 +185791,8 @@
                 },
                 "device_key": "869487063586639",
                 "lbs_position": {
-                    "lat": -23.80000234,
-                    "lng": -45.40194511
+                    "lat": -23.80063534,
+                    "lng": -45.40220261
                 }
             },
             {
@@ -185910,21 +185910,21 @@
                 "imei": "1000000000044940",
                 "status": {
                     "address": "",
-                    "date": 1763515777000,
-                    "heartbeat_time": 1763515778000,
+                    "date": 1763558976000,
+                    "heartbeat_time": 1763558978000,
                     "lat": -23.551185607910156,
                     "latlng_valid": 0,
                     "lng": -46.76570510864258,
-                    "location_date": 1763515777000,
-                    "network_signal": 37
+                    "location_date": 1763558976000,
+                    "network_signal": 62
                 },
                 "config": {
                     "name": "32773017889-422350"
                 },
                 "device_key": "869487063586738",
                 "lbs_position": {
-                    "lat": -23.54313254,
-                    "lng": -46.80637121
+                    "lat": -23.53625536,
+                    "lng": -46.8048048
                 }
             },
             {
@@ -186284,12 +186284,12 @@
                 "imei": "1000000000044959",
                 "status": {
                     "address": "",
-                    "date": 1763510460000,
-                    "heartbeat_time": 1763510464000,
-                    "lat": -23.644393920898438,
+                    "date": 1763553664000,
+                    "heartbeat_time": 1763553670000,
+                    "lat": -23.633127212524414,
                     "latlng_valid": 1,
-                    "lng": -46.666351318359375,
-                    "location_date": 1763510460000,
+                    "lng": -46.68061828613281,
+                    "location_date": 1763553664000,
                     "network_signal": 0
                 },
                 "config": {
@@ -187384,13 +187384,13 @@
                 "imei": "1000000000045019",
                 "status": {
                     "address": "",
-                    "date": 1763516321000,
-                    "heartbeat_time": 1763516321000,
-                    "lat": -23.336063385009766,
+                    "date": 1763559523000,
+                    "heartbeat_time": 1763559525000,
+                    "lat": -23.33327293395996,
                     "latlng_valid": 1,
-                    "lng": -46.82582092285156,
-                    "location_date": 1763516321000,
-                    "network_signal": 58
+                    "lng": -46.82809066772461,
+                    "location_date": 1763559523000,
+                    "network_signal": 0
                 },
                 "config": {
                     "name": "39289564857-424439"
@@ -188704,13 +188704,13 @@
                 "imei": "1000000000045096",
                 "status": {
                     "address": "",
-                    "date": 1763522527000,
-                    "heartbeat_time": 1763522527000,
+                    "date": 1763565724000,
+                    "heartbeat_time": 1763565726000,
                     "lat": -23.54060173034668,
                     "latlng_valid": 0,
                     "lng": -46.20198440551758,
-                    "location_date": 1763522527000,
-                    "network_signal": 37
+                    "location_date": 1763565724000,
+                    "network_signal": 44
                 },
                 "config": {
                     "name": "37713614869-266704"
@@ -190332,12 +190332,12 @@
                 "imei": "1000000000045182",
                 "status": {
                     "address": "",
-                    "date": 1763521763000,
-                    "heartbeat_time": 1763521766000,
-                    "lat": -23.49376678466797,
+                    "date": 1763564969000,
+                    "heartbeat_time": 1763564970000,
+                    "lat": -23.493677139282227,
                     "latlng_valid": 1,
-                    "lng": -46.982967376708984,
-                    "location_date": 1763521763000,
+                    "lng": -46.98310470581055,
+                    "location_date": 1763564969000,
                     "network_signal": 0
                 },
                 "config": {
@@ -193016,21 +193016,21 @@
                 "imei": "1000000000045336",
                 "status": {
                     "address": "",
-                    "date": 1763520186000,
-                    "heartbeat_time": 1763520185000,
+                    "date": 1763563384000,
+                    "heartbeat_time": 1763563385000,
                     "lat": -23.73923110961914,
                     "latlng_valid": 0,
                     "lng": -46.79525375366211,
-                    "location_date": 1763520186000,
-                    "network_signal": 72
+                    "location_date": 1763563384000,
+                    "network_signal": 82
                 },
                 "config": {
                     "name": "32603069861-344788"
                 },
                 "device_key": "869487063594492",
                 "lbs_position": {
-                    "lat": null,
-                    "lng": null
+                    "lat": -23.75125051,
+                    "lng": -46.79023504
                 }
             },
             {
@@ -194732,12 +194732,12 @@
                 "imei": "1000000000045436",
                 "status": {
                     "address": "",
-                    "date": 1763521460000,
-                    "heartbeat_time": 1763521462000,
-                    "lat": -23.43937873840332,
+                    "date": 1763564652000,
+                    "heartbeat_time": 1763564654000,
+                    "lat": -23.439476013183594,
                     "latlng_valid": 1,
-                    "lng": -46.934078216552734,
-                    "location_date": 1763521460000,
+                    "lng": -46.93412780761719,
+                    "location_date": 1763564652000,
                     "network_signal": 0
                 },
                 "config": {
@@ -194886,21 +194886,21 @@
                 "imei": "1000000000045444",
                 "status": {
                     "address": "",
-                    "date": 1763518638000,
-                    "heartbeat_time": 1763518662000,
+                    "date": 1763561848000,
+                    "heartbeat_time": 1763561850000,
                     "lat": -27.006336212158203,
                     "latlng_valid": 0,
                     "lng": -48.606204986572266,
-                    "location_date": 1763518638000,
-                    "network_signal": 0
+                    "location_date": 1763561848000,
+                    "network_signal": 37
                 },
                 "config": {
                     "name": "48112367850-392680"
                 },
                 "device_key": "869487063598543",
                 "lbs_position": {
-                    "lat": null,
-                    "lng": null
+                    "lat": -19.8212564,
+                    "lng": -43.94471169
                 }
             },
             {
@@ -198186,13 +198186,13 @@
                 "imei": "1000000000045618",
                 "status": {
                     "address": "",
-                    "date": 1763512542000,
-                    "heartbeat_time": 1763512543000,
-                    "lat": -23.522167205810547,
-                    "latlng_valid": 0,
-                    "lng": -46.758907318115234,
-                    "location_date": 1763512542000,
-                    "network_signal": 55
+                    "date": 1763555744000,
+                    "heartbeat_time": 1763555745000,
+                    "lat": -23.529775619506836,
+                    "latlng_valid": 1,
+                    "lng": -46.862613677978516,
+                    "location_date": 1763555744000,
+                    "network_signal": 0
                 },
                 "config": {
                     "name": "50313456836-293570"
@@ -199198,21 +199198,21 @@
                 "imei": "1000000000045668",
                 "status": {
                     "address": "",
-                    "date": 1763513459000,
-                    "heartbeat_time": 1763513462000,
+                    "date": 1763556660000,
+                    "heartbeat_time": 1763556661000,
                     "lat": -23.5979061126709,
                     "latlng_valid": 0,
                     "lng": -46.6053466796875,
-                    "location_date": 1763513459000,
-                    "network_signal": 58
+                    "location_date": 1763556660000,
+                    "network_signal": 89
                 },
                 "config": {
                     "name": "38922218800-287747"
                 },
                 "device_key": "869487063606619",
                 "lbs_position": {
-                    "lat": -23.44500661,
-                    "lng": -46.58389807
+                    "lat": -23.53813291,
+                    "lng": -46.6188097
                 }
             },
             {
@@ -200980,13 +200980,13 @@
                 "imei": "1000000000045770",
                 "status": {
                     "address": "",
-                    "date": 1763514284000,
-                    "heartbeat_time": 1763514286000,
-                    "lat": -23.64773178100586,
-                    "latlng_valid": 0,
-                    "lng": -46.59392547607422,
-                    "location_date": 1763514284000,
-                    "network_signal": 96
+                    "date": 1763557479000,
+                    "heartbeat_time": 1763557479000,
+                    "lat": -23.636547088623047,
+                    "latlng_valid": 1,
+                    "lng": -46.4764518737793,
+                    "location_date": 1763557479000,
+                    "network_signal": 86
                 },
                 "config": {
                     "name": "45460114829-202670"
@@ -201970,12 +201970,12 @@
                 "imei": "1000000000045821",
                 "status": {
                     "address": "",
-                    "date": 1763519339000,
-                    "heartbeat_time": 1763519342000,
-                    "lat": -23.698205947875977,
+                    "date": 1763562534000,
+                    "heartbeat_time": 1763562537000,
+                    "lat": -23.697898864746094,
                     "latlng_valid": 1,
-                    "lng": -46.52501678466797,
-                    "location_date": 1763519339000,
+                    "lng": -46.525184631347656,
+                    "location_date": 1763562534000,
                     "network_signal": 0
                 },
                 "config": {
@@ -204720,13 +204720,13 @@
                 "imei": "1000000000045967",
                 "status": {
                     "address": "",
-                    "date": 1763551813000,
-                    "heartbeat_time": 1763551816000,
-                    "lat": -23.53128433227539,
-                    "latlng_valid": 0,
-                    "lng": -46.73676300048828,
-                    "location_date": 1763551813000,
-                    "network_signal": 75
+                    "date": 1763566210000,
+                    "heartbeat_time": 1763566211000,
+                    "lat": -23.531354904174805,
+                    "latlng_valid": 1,
+                    "lng": -46.73639678955078,
+                    "location_date": 1763566210000,
+                    "network_signal": 0
                 },
                 "config": {
                     "name": "12650977981-431988"
@@ -206348,12 +206348,12 @@
                 "imei": "1000000000046060",
                 "status": {
                     "address": "",
-                    "date": 1763512753000,
-                    "heartbeat_time": 1763512756000,
-                    "lat": -23.746196746826172,
+                    "date": 1763555947000,
+                    "heartbeat_time": 1763555949000,
+                    "lat": -23.765302658081055,
                     "latlng_valid": 1,
-                    "lng": -46.687679290771484,
-                    "location_date": 1763512753000,
+                    "lng": -46.70930480957031,
+                    "location_date": 1763555947000,
                     "network_signal": 0
                 },
                 "config": {
@@ -207382,13 +207382,13 @@
                 "imei": "1000000000046115",
                 "status": {
                     "address": "",
-                    "date": 1763520628000,
-                    "heartbeat_time": 1763520629000,
-                    "lat": -23.505739212036133,
+                    "date": 1763563833000,
+                    "heartbeat_time": 1763563835000,
+                    "lat": -23.51774787902832,
                     "latlng_valid": 1,
-                    "lng": -46.6129035949707,
-                    "location_date": 1763520628000,
-                    "network_signal": 62
+                    "lng": -46.60693359375,
+                    "location_date": 1763563833000,
+                    "network_signal": 0
                 },
                 "config": {
                     "name": "46580086882-527297"
@@ -208438,12 +208438,12 @@
                 "imei": "1000000000046172",
                 "status": {
                     "address": "",
-                    "date": 1763513187000,
-                    "heartbeat_time": 1763513189000,
-                    "lat": -22.937450408935547,
+                    "date": 1763556390000,
+                    "heartbeat_time": 1763556393000,
+                    "lat": -23.02358055114746,
                     "latlng_valid": 1,
-                    "lng": -45.46262741088867,
-                    "location_date": 1763513187000,
+                    "lng": -45.55356216430664,
+                    "location_date": 1763556390000,
                     "network_signal": 0
                 },
                 "config": {
@@ -209670,21 +209670,21 @@
                 "imei": "1000000000046239",
                 "status": {
                     "address": "",
-                    "date": 1763515126000,
-                    "heartbeat_time": 1763515129000,
+                    "date": 1763558327000,
+                    "heartbeat_time": 1763558328000,
                     "lat": -23.53925323486328,
                     "latlng_valid": 0,
                     "lng": -46.474300384521484,
-                    "location_date": 1763515126000,
-                    "network_signal": 41
+                    "location_date": 1763558327000,
+                    "network_signal": 65
                 },
                 "config": {
                     "name": "41800740875-327598"
                 },
                 "device_key": "869487063623044",
                 "lbs_position": {
-                    "lat": -23.53563309,
-                    "lng": -46.47409916
+                    "lat": -23.53500009,
+                    "lng": -46.47360563
                 }
             },
             {
@@ -210044,12 +210044,12 @@
                 "imei": "1000000000046258",
                 "status": {
                     "address": "",
-                    "date": 1763513591000,
-                    "heartbeat_time": 1763513594000,
-                    "lat": -23.406946182250977,
+                    "date": 1763556796000,
+                    "heartbeat_time": 1763556799000,
+                    "lat": -23.407079696655273,
                     "latlng_valid": 1,
-                    "lng": -46.89662551879883,
-                    "location_date": 1763513591000,
+                    "lng": -46.89653778076172,
+                    "location_date": 1763556796000,
                     "network_signal": 0
                 },
                 "config": {
@@ -212552,13 +212552,13 @@
                 "imei": "1000000000046388",
                 "status": {
                     "address": "",
-                    "date": 1763516217000,
-                    "heartbeat_time": 1763516218000,
-                    "lat": -23.707395553588867,
+                    "date": 1763559417000,
+                    "heartbeat_time": 1763559417000,
+                    "lat": -23.70742416381836,
                     "latlng_valid": 1,
-                    "lng": -46.61027908325195,
-                    "location_date": 1763516217000,
-                    "network_signal": 86
+                    "lng": -46.61014175415039,
+                    "location_date": 1763559417000,
+                    "network_signal": 0
                 },
                 "config": {
                     "name": "32954003855-390181"
@@ -212794,12 +212794,12 @@
                 "imei": "1000000000046405",
                 "status": {
                     "address": "",
-                    "date": 1763512179000,
-                    "heartbeat_time": 1763512182000,
-                    "lat": -23.561094284057617,
+                    "date": 1763555383000,
+                    "heartbeat_time": 1763555384000,
+                    "lat": -23.560867309570312,
                     "latlng_valid": 1,
-                    "lng": -46.18727493286133,
-                    "location_date": 1763512179000,
+                    "lng": -46.18716812133789,
+                    "location_date": 1763555383000,
                     "network_signal": 0
                 },
                 "config": {
@@ -212816,12 +212816,12 @@
                 "imei": "1000000000046406",
                 "status": {
                     "address": "",
-                    "date": 1763514721000,
-                    "heartbeat_time": 1763514723000,
-                    "lat": -22.356464385986328,
+                    "date": 1763557922000,
+                    "heartbeat_time": 1763557925000,
+                    "lat": -22.356605529785156,
                     "latlng_valid": 1,
-                    "lng": -46.92594528198242,
-                    "location_date": 1763514721000,
+                    "lng": -46.926666259765625,
+                    "location_date": 1763557922000,
                     "network_signal": 0
                 },
                 "config": {
@@ -213388,13 +213388,13 @@
                 "imei": "1000000000046439",
                 "status": {
                     "address": "",
-                    "date": 1763517822000,
-                    "heartbeat_time": 1763517824000,
-                    "lat": -23.722543716430664,
-                    "latlng_valid": 0,
-                    "lng": -46.580360412597656,
-                    "location_date": 1763517822000,
-                    "network_signal": 89
+                    "date": 1763561013000,
+                    "heartbeat_time": 1763561017000,
+                    "lat": -23.65944480895996,
+                    "latlng_valid": 1,
+                    "lng": -46.616432189941406,
+                    "location_date": 1763561013000,
+                    "network_signal": 0
                 },
                 "config": {
                     "name": "42848510803-454344"
@@ -214114,13 +214114,13 @@
                 "imei": "1000000000046485",
                 "status": {
                     "address": "",
-                    "date": 1763519839000,
-                    "heartbeat_time": 1763519842000,
-                    "lat": -23.033695220947266,
+                    "date": 1763563044000,
+                    "heartbeat_time": 1763563046000,
+                    "lat": -23.010173797607422,
                     "latlng_valid": 1,
-                    "lng": -45.53377914428711,
-                    "location_date": 1763519839000,
-                    "network_signal": 0
+                    "lng": -45.548126220703125,
+                    "location_date": 1763563044000,
+                    "network_signal": 37
                 },
                 "config": {
                     "name": "41476464847-348286"
@@ -214664,13 +214664,13 @@
                 "imei": "1000000000046519",
                 "status": {
                     "address": "",
-                    "date": 1763514293000,
-                    "heartbeat_time": 1763514293000,
-                    "lat": -23.528640747070312,
-                    "latlng_valid": 0,
-                    "lng": -46.72746658325195,
-                    "location_date": 1763514293000,
-                    "network_signal": 82
+                    "date": 1763557487000,
+                    "heartbeat_time": 1763557487000,
+                    "lat": -23.528644561767578,
+                    "latlng_valid": 1,
+                    "lng": -46.72824478149414,
+                    "location_date": 1763557487000,
+                    "network_signal": 65
                 },
                 "config": {
                     "name": "30532304888-326192"
@@ -216050,13 +216050,13 @@
                 "imei": "1000000000046591",
                 "status": {
                     "address": "",
-                    "date": 1763520787000,
-                    "heartbeat_time": 1763520788000,
-                    "lat": -23.4522705078125,
-                    "latlng_valid": 0,
-                    "lng": -46.89921569824219,
-                    "location_date": 1763520787000,
-                    "network_signal": 86
+                    "date": 1763563980000,
+                    "heartbeat_time": 1763563981000,
+                    "lat": -23.452308654785156,
+                    "latlng_valid": 1,
+                    "lng": -46.899208068847656,
+                    "location_date": 1763563980000,
+                    "network_signal": 0
                 },
                 "config": {
                     "name": "29922137801-472279"
@@ -218871,21 +218871,21 @@
                 "imei": "1000000000046743",
                 "status": {
                     "address": "",
-                    "date": 1763513734000,
-                    "heartbeat_time": 1763513736000,
+                    "date": 1763556945000,
+                    "heartbeat_time": 1763556946000,
                     "lat": -23.659997940063477,
-                    "latlng_valid": 1,
+                    "latlng_valid": 0,
                     "lng": -46.370147705078125,
-                    "location_date": 1763513734000,
-                    "network_signal": 89
+                    "location_date": 1763556945000,
+                    "network_signal": 100
                 },
                 "config": {
                     "name": "44481044861-112857"
                 },
                 "device_key": "869487063635733",
                 "lbs_position": {
-                    "lat": -23.73375177,
-                    "lng": -46.55578852
+                    "lat": -23.65813494,
+                    "lng": -46.42410278
                 }
             },
             {
@@ -219465,13 +219465,13 @@
                 "imei": "1000000000046776",
                 "status": {
                     "address": "",
-                    "date": 1763511896000,
-                    "heartbeat_time": 1763511898000,
+                    "date": 1763555096000,
+                    "heartbeat_time": 1763555097000,
                     "lat": 0,
                     "latlng_valid": 0,
                     "lng": 0,
-                    "location_date": 1763511896000,
-                    "network_signal": 55
+                    "location_date": 1763555096000,
+                    "network_signal": 65
                 },
                 "config": {
                     "name": "19353350816-417690"
@@ -220015,13 +220015,13 @@
                 "imei": "1000000000046804",
                 "status": {
                     "address": "",
-                    "date": 1763514909000,
-                    "heartbeat_time": 1763514910000,
-                    "lat": -23.695119857788086,
-                    "latlng_valid": 0,
-                    "lng": -46.794891357421875,
-                    "location_date": 1763514909000,
-                    "network_signal": 51
+                    "date": 1763558106000,
+                    "heartbeat_time": 1763558107000,
+                    "lat": -23.694866180419922,
+                    "latlng_valid": 1,
+                    "lng": -46.79475402832031,
+                    "location_date": 1763558106000,
+                    "network_signal": 58
                 },
                 "config": {
                     "name": "30279821840-230040"
@@ -222787,13 +222787,13 @@
                 "imei": "1000000000046964",
                 "status": {
                     "address": "",
-                    "date": 1763520734000,
-                    "heartbeat_time": 1763520738000,
+                    "date": 1763563920000,
+                    "heartbeat_time": 1763563930000,
                     "lat": -23.448143005371094,
                     "latlng_valid": 0,
                     "lng": -46.343284606933594,
-                    "location_date": 1763520734000,
-                    "network_signal": 27
+                    "location_date": 1763563920000,
+                    "network_signal": 34
                 },
                 "config": {
                     "name": "11576651878-450355"
@@ -223887,13 +223887,13 @@
                 "imei": "1000000000047021",
                 "status": {
                     "address": "",
-                    "date": 1763509993000,
-                    "heartbeat_time": 1763509995000,
-                    "lat": -23.69050407409668,
-                    "latlng_valid": 0,
-                    "lng": -46.552494049072266,
-                    "location_date": 1763509993000,
-                    "network_signal": 65
+                    "date": 1763553187000,
+                    "heartbeat_time": 1763553189000,
+                    "lat": -23.67973518371582,
+                    "latlng_valid": 1,
+                    "lng": -46.58285140991211,
+                    "location_date": 1763553187000,
+                    "network_signal": 79
                 },
                 "config": {
                     "name": "35264860858-190129"
@@ -229541,21 +229541,21 @@
                 "imei": "1000000000047345",
                 "status": {
                     "address": "",
-                    "date": 1763515993000,
-                    "heartbeat_time": 1763515995000,
+                    "date": 1763559191000,
+                    "heartbeat_time": 1763559193000,
                     "lat": -23.655227661132812,
                     "latlng_valid": 0,
                     "lng": -46.4379997253418,
-                    "location_date": 1763515993000,
-                    "network_signal": 55
+                    "location_date": 1763559191000,
+                    "network_signal": 58
                 },
                 "config": {
                     "name": "26932087855-494898"
                 },
                 "device_key": "869487063662471",
                 "lbs_position": {
-                    "lat": null,
-                    "lng": null
+                    "lat": -23.65188003,
+                    "lng": -46.44201994
                 }
             },
             {
@@ -234513,21 +234513,21 @@
                 "imei": "1000000000047620",
                 "status": {
                     "address": "",
-                    "date": 1763516523000,
-                    "heartbeat_time": 1763516525000,
+                    "date": 1763559731000,
+                    "heartbeat_time": 1763559734000,
                     "lat": -23.445049285888672,
                     "latlng_valid": 0,
                     "lng": -46.41022872924805,
-                    "location_date": 1763516523000,
-                    "network_signal": 58
+                    "location_date": 1763559731000,
+                    "network_signal": 68
                 },
                 "config": {
                     "name": "36734283810-334285"
                 },
                 "device_key": "869487063670417",
                 "lbs_position": {
-                    "lat": -23.42125297,
-                    "lng": -46.50152206
+                    "lat": -23.44250679,
+                    "lng": -46.40781641
                 }
             },
             {
@@ -236867,13 +236867,13 @@
                 "imei": "1000000000047750",
                 "status": {
                     "address": "",
-                    "date": 1763516728000,
-                    "heartbeat_time": 1763516729000,
-                    "lat": -23.317346572875977,
-                    "latlng_valid": 0,
-                    "lng": -46.597633361816406,
-                    "location_date": 1763516728000,
-                    "network_signal": 48
+                    "date": 1763559921000,
+                    "heartbeat_time": 1763559923000,
+                    "lat": -23.317272186279297,
+                    "latlng_valid": 1,
+                    "lng": -46.59768295288086,
+                    "location_date": 1763559921000,
+                    "network_signal": 0
                 },
                 "config": {
                     "name": "29516069827-102111"
@@ -237219,12 +237219,12 @@
                 "imei": "1000000000047768",
                 "status": {
                     "address": "",
-                    "date": 1763519051000,
-                    "heartbeat_time": 1763519052000,
-                    "lat": -23.42578125,
+                    "date": 1763562243000,
+                    "heartbeat_time": 1763562245000,
+                    "lat": -23.542285919189453,
                     "latlng_valid": 1,
-                    "lng": -46.415645599365234,
-                    "location_date": 1763519051000,
+                    "lng": -46.231693267822266,
+                    "location_date": 1763562243000,
                     "network_signal": 0
                 },
                 "config": {
@@ -247361,13 +247361,13 @@
                 "imei": "1000000000050295",
                 "status": {
                     "address": "",
-                    "date": 1763551801000,
-                    "heartbeat_time": 1763551802000,
-                    "lat": -23.539844512939453,
+                    "date": 1763566200000,
+                    "heartbeat_time": 1763566201000,
+                    "lat": -23.53989601135254,
                     "latlng_valid": 1,
-                    "lng": -46.54464340209961,
-                    "location_date": 1763551801000,
-                    "network_signal": 62
+                    "lng": -46.54452133178711,
+                    "location_date": 1763566200000,
+                    "network_signal": 58
                 },
                 "config": {
                     "name": "08905504841-495226"
@@ -249429,13 +249429,13 @@
                 "imei": "1000000000050407",
                 "status": {
                     "address": "",
-                    "date": 1763551835000,
-                    "heartbeat_time": 1763551836000,
-                    "lat": -23.537395477294922,
-                    "latlng_valid": 1,
-                    "lng": -46.54841995239258,
-                    "location_date": 1763551835000,
-                    "network_signal": 75
+                    "date": 1763566210000,
+                    "heartbeat_time": 1763566211000,
+                    "lat": -23.539039611816406,
+                    "latlng_valid": 0,
+                    "lng": -46.54991912841797,
+                    "location_date": 1763566210000,
+                    "network_signal": 72
                 },
                 "config": {
                     "name": "04162504407-412925"
@@ -249443,7 +249443,7 @@
                 "device_key": "869487062807085",
                 "lbs_position": {
                     "lat": -23.53313327,
-                    "lng": -46.54969454
+                    "lng": -46.55005932
                 }
             },
             {
@@ -269894,12 +269894,12 @@
                 "imei": "1000000000051532",
                 "status": {
                     "address": "",
-                    "date": 1763551805000,
-                    "heartbeat_time": 1763551807000,
-                    "lat": -23.52904510498047,
+                    "date": 1763566204000,
+                    "heartbeat_time": 1763566206000,
+                    "lat": -23.528778076171875,
                     "latlng_valid": 1,
-                    "lng": -46.45634460449219,
-                    "location_date": 1763551805000,
+                    "lng": -46.4566650390625,
+                    "location_date": 1763566204000,
                     "network_signal": 96
                 },
                 "config": {
@@ -269982,13 +269982,13 @@
                 "imei": "1000000000051536",
                 "status": {
                     "address": "",
-                    "date": 1763517929000,
-                    "heartbeat_time": 1763517930000,
-                    "lat": -23.521886825561523,
-                    "latlng_valid": 0,
-                    "lng": -46.76929473876953,
-                    "location_date": 1763517929000,
-                    "network_signal": 82
+                    "date": 1763561121000,
+                    "heartbeat_time": 1763561124000,
+                    "lat": -23.547338485717773,
+                    "latlng_valid": 1,
+                    "lng": -46.804283142089844,
+                    "location_date": 1763561121000,
+                    "network_signal": 0
                 },
                 "config": {
                     "name": "39661515883-364664"
@@ -272424,13 +272424,13 @@
                 "imei": "1000000000051671",
                 "status": {
                     "address": "",
-                    "date": 1763551803000,
-                    "heartbeat_time": 1763551804000,
-                    "lat": -23.532241821289062,
+                    "date": 1763566205000,
+                    "heartbeat_time": 1763566206000,
+                    "lat": -23.53232192993164,
                     "latlng_valid": 1,
-                    "lng": -46.55031204223633,
-                    "location_date": 1763551803000,
-                    "network_signal": 79
+                    "lng": -46.55023193359375,
+                    "location_date": 1763566205000,
+                    "network_signal": 86
                 },
                 "config": {
                     "name": "40351206850-517164"
@@ -273656,12 +273656,12 @@
                 "imei": "1000000000051732",
                 "status": {
                     "address": "",
-                    "date": 1763520509000,
-                    "heartbeat_time": 1763520512000,
-                    "lat": -22.599096298217773,
+                    "date": 1763563714000,
+                    "heartbeat_time": 1763563715000,
+                    "lat": -22.598867416381836,
                     "latlng_valid": 1,
-                    "lng": -47.383399963378906,
-                    "location_date": 1763520509000,
+                    "lng": -47.383792877197266,
+                    "location_date": 1763563714000,
                     "network_signal": 0
                 },
                 "config": {
@@ -280168,13 +280168,13 @@
                 "imei": "1000000000055617",
                 "status": {
                     "address": "",
-                    "date": 1763520968000,
-                    "heartbeat_time": 1763520970000,
-                    "lat": -23.72126007080078,
+                    "date": 1763564172000,
+                    "heartbeat_time": 1763564172000,
+                    "lat": -23.720888137817383,
                     "latlng_valid": 1,
-                    "lng": -46.59129333496094,
-                    "location_date": 1763520968000,
-                    "network_signal": 0
+                    "lng": -46.59138107299805,
+                    "location_date": 1763564172000,
+                    "network_signal": 86
                 },
                 "config": {
                     "name": "22743576847-292789"
@@ -285118,13 +285118,13 @@
                 "imei": "1000000000055894",
                 "status": {
                     "address": "",
-                    "date": 1763551810000,
-                    "heartbeat_time": 1763551811000,
-                    "lat": -23.547245025634766,
+                    "date": 1763566202000,
+                    "heartbeat_time": 1763566204000,
+                    "lat": -23.547555923461914,
                     "latlng_valid": 1,
-                    "lng": -46.7966423034668,
-                    "location_date": 1763551810000,
-                    "network_signal": 72
+                    "lng": -46.79633712768555,
+                    "location_date": 1763566202000,
+                    "network_signal": 68
                 },
                 "config": {
                     "name": "36301254848-135987"
@@ -285646,12 +285646,12 @@
                 "imei": "1000000000055919",
                 "status": {
                     "address": "",
-                    "date": 1763510189000,
-                    "heartbeat_time": 1763510190000,
+                    "date": 1763553387000,
+                    "heartbeat_time": 1763553389000,
                     "lat": -23.616252899169922,
                     "latlng_valid": 0,
                     "lng": -46.672752380371094,
-                    "location_date": 1763510189000,
+                    "location_date": 1763553387000,
                     "network_signal": 100
                 },
                 "config": {
@@ -292119,21 +292119,21 @@
                 "imei": "1000000000056278",
                 "status": {
                     "address": "",
-                    "date": 1763552709000,
-                    "heartbeat_time": 1763552712000,
+                    "date": 1763554509000,
+                    "heartbeat_time": 1763554513000,
                     "lat": 0,
                     "latlng_valid": 0,
                     "lng": 0,
-                    "location_date": 1763552709000,
-                    "network_signal": 58
+                    "location_date": 1763554509000,
+                    "network_signal": 41
                 },
                 "config": {
                     "name": "04793454810-324587"
                 },
                 "device_key": "869487062858286",
                 "lbs_position": {
-                    "lat": -23.55563164,
-                    "lng": -46.31889582
+                    "lat": -23.67000103,
+                    "lng": -46.31370306
                 }
             },
             {
@@ -301975,21 +301975,21 @@
                 "imei": "1000000000056821",
                 "status": {
                     "address": "",
-                    "date": 1763552407000,
-                    "heartbeat_time": 1763552410000,
-                    "lat": -23.556636810302734,
-                    "latlng_valid": 0,
-                    "lng": -46.819915771484375,
-                    "location_date": 1763552407000,
-                    "network_signal": 68
+                    "date": 1763566793000,
+                    "heartbeat_time": 1763566794000,
+                    "lat": -23.556564331054688,
+                    "latlng_valid": 1,
+                    "lng": -46.8199348449707,
+                    "location_date": 1763566793000,
+                    "network_signal": 0
                 },
                 "config": {
                     "name": "03118021411-356119"
                 },
                 "device_key": "869487062982359",
                 "lbs_position": {
-                    "lat": -23.54875445,
-                    "lng": -46.82192802
+                    "lat": -23.55563164,
+                    "lng": -46.82055473
                 }
             },
             {
@@ -318805,13 +318805,13 @@
                 "imei": "1000000000057761",
                 "status": {
                     "address": "",
-                    "date": 1763512912000,
-                    "heartbeat_time": 1763512916000,
+                    "date": 1763556114000,
+                    "heartbeat_time": 1763556115000,
                     "lat": 0,
                     "latlng_valid": 0,
                     "lng": 0,
-                    "location_date": 1763512912000,
-                    "network_signal": 58
+                    "location_date": 1763556114000,
+                    "network_signal": 62
                 },
                 "config": {
                     "name": "36839895807-379652"
@@ -333220,21 +333220,21 @@
                 "imei": "1000000000060803",
                 "status": {
                     "address": "",
-                    "date": 1763524026000,
-                    "heartbeat_time": 1763524027000,
+                    "date": 1763567224000,
+                    "heartbeat_time": 1763567226000,
                     "lat": 0,
                     "latlng_valid": 0,
                     "lng": 0,
-                    "location_date": 1763524026000,
-                    "network_signal": 37
+                    "location_date": 1763567224000,
+                    "network_signal": 34
                 },
                 "config": {
                     "name": "01734690518-335839"
                 },
                 "device_key": "869487062727994",
                 "lbs_position": {
-                    "lat": -23.63438129,
-                    "lng": -46.75864935
+                    "lat": -23.63688111,
+                    "lng": -46.75422907
                 }
             },
             {
@@ -357645,13 +357645,13 @@
                 "imei": "1000000000031310",
                 "status": {
                     "address": "",
-                    "date": 1763515590000,
-                    "heartbeat_time": 1763515592000,
-                    "lat": -22.878826141357422,
-                    "latlng_valid": 0,
-                    "lng": -43.27653503417969,
-                    "location_date": 1763515590000,
-                    "network_signal": 58
+                    "date": 1763558785000,
+                    "heartbeat_time": 1763558786000,
+                    "lat": -22.87899398803711,
+                    "latlng_valid": 1,
+                    "lng": -43.27703857421875,
+                    "location_date": 1763558785000,
+                    "network_signal": 51
                 },
                 "config": {
                     "name": "00552566780-226708"
@@ -360989,12 +360989,12 @@
                 "imei": "1000000000031504",
                 "status": {
                     "address": "",
-                    "date": 1763512939000,
-                    "heartbeat_time": 1763512941000,
+                    "date": 1763556139000,
+                    "heartbeat_time": 1763556140000,
                     "lat": -22.457887649536133,
                     "latlng_valid": 0,
                     "lng": -43.46804428100586,
-                    "location_date": 1763512939000,
+                    "location_date": 1763556139000,
                     "network_signal": 37
                 },
                 "config": {
@@ -361002,8 +361002,8 @@
                 },
                 "device_key": "869487062794853",
                 "lbs_position": {
-                    "lat": -22.45750308,
-                    "lng": -43.47465992
+                    "lat": -22.45625854,
+                    "lng": -43.47242832
                 }
             },
             {
@@ -365983,13 +365983,13 @@
                 "imei": "1000000000031812",
                 "status": {
                     "address": "",
-                    "date": 1763514462000,
-                    "heartbeat_time": 1763514465000,
+                    "date": 1763557691000,
+                    "heartbeat_time": 1763557692000,
                     "lat": -22.69878578186035,
                     "latlng_valid": 0,
                     "lng": -43.29159164428711,
-                    "location_date": 1763514462000,
-                    "network_signal": 41
+                    "location_date": 1763557691000,
+                    "network_signal": 55
                 },
                 "config": {
                     "name": "15151874705-409355"
@@ -368799,21 +368799,21 @@
                 "imei": "1000000000031984",
                 "status": {
                     "address": "",
-                    "date": 1763516596000,
-                    "heartbeat_time": 1763516766000,
+                    "date": 1763559806000,
+                    "heartbeat_time": 1763559807000,
                     "lat": -22.599613189697266,
                     "latlng_valid": 0,
                     "lng": -43.18716049194336,
-                    "location_date": 1763516596000,
-                    "network_signal": 10
+                    "location_date": 1763559806000,
+                    "network_signal": 37
                 },
                 "config": {
                     "name": "15336019763-361891"
                 },
                 "device_key": "869487062927420",
                 "lbs_position": {
-                    "lat": null,
-                    "lng": null
+                    "lat": -22.59562612,
+                    "lng": -43.18392992
                 }
             },
             {
@@ -372605,13 +372605,13 @@
                 "imei": "1000000000032210",
                 "status": {
                     "address": "",
-                    "date": 1763520438000,
-                    "heartbeat_time": 1763520439000,
-                    "lat": -22.972454071044922,
+                    "date": 1763563641000,
+                    "heartbeat_time": 1763563642000,
+                    "lat": -22.972251892089844,
                     "latlng_valid": 1,
-                    "lng": -43.681129455566406,
-                    "location_date": 1763520438000,
-                    "network_signal": 86
+                    "lng": -43.681156158447266,
+                    "location_date": 1763563641000,
+                    "network_signal": 100
                 },
                 "config": {
                     "name": "13835286757-398615"
@@ -377049,13 +377049,13 @@
                 "imei": "1000000000032467",
                 "status": {
                     "address": "",
-                    "date": 1763510615000,
-                    "heartbeat_time": 1763510616000,
-                    "lat": -23.01129913330078,
-                    "latlng_valid": 0,
-                    "lng": -43.37469482421875,
-                    "location_date": 1763510615000,
-                    "network_signal": 65
+                    "date": 1763553808000,
+                    "heartbeat_time": 1763553810000,
+                    "lat": -22.897558212280273,
+                    "latlng_valid": 1,
+                    "lng": -43.26814651489258,
+                    "location_date": 1763553808000,
+                    "network_signal": 0
                 },
                 "config": {
                     "name": "10750973714-287627"
@@ -386355,13 +386355,13 @@
                 "imei": "1000000000033040",
                 "status": {
                     "address": "",
-                    "date": 1763551799000,
-                    "heartbeat_time": 1763551800000,
+                    "date": 1763566199000,
+                    "heartbeat_time": 1763566200000,
                     "lat": -22.837129592895508,
                     "latlng_valid": 0,
                     "lng": -43.38380813598633,
-                    "location_date": 1763551799000,
-                    "network_signal": 62
+                    "location_date": 1763566199000,
+                    "network_signal": 58
                 },
                 "config": {
                     "name": "11491623764-217067"
@@ -387543,13 +387543,13 @@
                 "imei": "1000000000033107",
                 "status": {
                     "address": "",
-                    "date": 1763521570000,
-                    "heartbeat_time": 1763521571000,
+                    "date": 1763564769000,
+                    "heartbeat_time": 1763564771000,
                     "lat": -22.973268508911133,
                     "latlng_valid": 0,
                     "lng": -43.38596725463867,
-                    "location_date": 1763521570000,
-                    "network_signal": 86
+                    "location_date": 1763564769000,
+                    "network_signal": 79
                 },
                 "config": {
                     "name": "09996123790-217007"
@@ -396722,12 +396722,12 @@
                 "imei": "1000000000054582",
                 "status": {
                     "address": "",
-                    "date": 1763552695000,
-                    "heartbeat_time": 1763552699000,
-                    "lat": -22.956148147583008,
+                    "date": 1763567102000,
+                    "heartbeat_time": 1763567105000,
+                    "lat": -22.95612907409668,
                     "latlng_valid": 1,
-                    "lng": -43.38916778564453,
-                    "location_date": 1763552695000,
+                    "lng": -43.38890075683594,
+                    "location_date": 1763567102000,
                     "network_signal": 0
                 },
                 "config": {
@@ -400506,12 +400506,12 @@
                 "imei": "1000000000058579",
                 "status": {
                     "address": "",
-                    "date": 1763552972000,
-                    "heartbeat_time": 1763552975000,
-                    "lat": -22.85533905029297,
+                    "date": 1763567389000,
+                    "heartbeat_time": 1763567392000,
+                    "lat": -22.855228424072266,
                     "latlng_valid": 1,
-                    "lng": -43.244998931884766,
-                    "location_date": 1763552972000,
+                    "lng": -43.24516296386719,
+                    "location_date": 1763567389000,
                     "network_signal": 0
                 },
                 "config": {
@@ -409531,13 +409531,13 @@
                 "imei": "1000000000053896",
                 "status": {
                     "address": "",
-                    "date": 1763515380000,
-                    "heartbeat_time": 1763515380000,
-                    "lat": -23.454627990722656,
+                    "date": 1763558582000,
+                    "heartbeat_time": 1763558583000,
+                    "lat": -23.415302276611328,
                     "latlng_valid": 1,
-                    "lng": -51.877464294433594,
-                    "location_date": 1763515380000,
-                    "network_signal": 72
+                    "lng": -51.91997528076172,
+                    "location_date": 1763558582000,
+                    "network_signal": 0
                 },
                 "config": {
                     "name": "09201083939-525154"
@@ -410301,12 +410301,12 @@
                 "imei": "1000000000053934",
                 "status": {
                     "address": "",
-                    "date": 1763517215000,
-                    "heartbeat_time": 1763517216000,
-                    "lat": -25.4748592376709,
+                    "date": 1763560417000,
+                    "heartbeat_time": 1763560418000,
+                    "lat": -25.434703826904297,
                     "latlng_valid": 1,
-                    "lng": -49.3200798034668,
-                    "location_date": 1763517215000,
+                    "lng": -49.274959564208984,
+                    "location_date": 1763560417000,
                     "network_signal": 100
                 },
                 "config": {
@@ -422093,13 +422093,13 @@
                 "imei": "1000000000060088",
                 "status": {
                     "address": "",
-                    "date": 1763551798000,
-                    "heartbeat_time": 1763551800000,
-                    "lat": -25.493757247924805,
+                    "date": 1763568005000,
+                    "heartbeat_time": 1763568007000,
+                    "lat": -25.507862091064453,
                     "latlng_valid": 1,
-                    "lng": -49.23630905151367,
-                    "location_date": 1763551798000,
-                    "network_signal": 72
+                    "lng": -49.25224685668945,
+                    "location_date": 1763568005000,
+                    "network_signal": 82
                 },
                 "config": {
                     "name": "96283211968-120899"
@@ -473285,13 +473285,13 @@
                 "imei": "1000000000048292",
                 "status": {
                     "address": "",
-                    "date": 1763517437000,
-                    "heartbeat_time": 1763517438000,
-                    "lat": -19.8609619140625,
-                    "latlng_valid": 0,
-                    "lng": -44.971580505371094,
-                    "location_date": 1763517437000,
-                    "network_signal": 58
+                    "date": 1763560629000,
+                    "heartbeat_time": 1763560631000,
+                    "lat": -19.856504440307617,
+                    "latlng_valid": 1,
+                    "lng": -44.97902297973633,
+                    "location_date": 1763560629000,
+                    "network_signal": 0
                 },
                 "config": {
                     "name": "12713219639-284398"
@@ -475573,12 +475573,12 @@
                 "imei": "1000000000048417",
                 "status": {
                     "address": "",
-                    "date": 1763522908000,
-                    "heartbeat_time": 1763522911000,
-                    "lat": -21.10667610168457,
+                    "date": 1763566102000,
+                    "heartbeat_time": 1763566119000,
+                    "lat": -21.10649871826172,
                     "latlng_valid": 1,
-                    "lng": -45.54589080810547,
-                    "location_date": 1763522908000,
+                    "lng": -45.546241760253906,
+                    "location_date": 1763566102000,
                     "network_signal": 0
                 },
                 "config": {
@@ -512784,13 +512784,13 @@
                 "imei": "1000000000034650",
                 "status": {
                     "address": "",
-                    "date": 1763553593000,
-                    "heartbeat_time": 1763553594000,
-                    "lat": -7.994389533996582,
+                    "date": 1763567998000,
+                    "heartbeat_time": 1763568009000,
+                    "lat": -7.994415283203125,
                     "latlng_valid": 1,
-                    "lng": -34.87235641479492,
-                    "location_date": 1763553593000,
-                    "network_signal": 75
+                    "lng": -34.87221145629883,
+                    "location_date": 1763567998000,
+                    "network_signal": 0
                 },
                 "config": {
                     "name": "01239492464-438840"
@@ -517255,12 +517255,12 @@
                 "imei": "1000000000053618",
                 "status": {
                     "address": "",
-                    "date": 1763517875000,
-                    "heartbeat_time": 1763517876000,
+                    "date": 1763561084000,
+                    "heartbeat_time": 1763561085000,
                     "lat": -5.1144633293151855,
-                    "latlng_valid": 1,
+                    "latlng_valid": 0,
                     "lng": -42.74707794189453,
-                    "location_date": 1763517875000,
+                    "location_date": 1763561084000,
                     "network_signal": 100
                 },
                 "config": {
@@ -517268,8 +517268,8 @@
                 },
                 "device_key": "869487062999742",
                 "lbs_position": {
-                    "lat": -5.11500478,
-                    "lng": -42.74694443
+                    "lat": -5.10688305,
+                    "lng": -42.74767399
                 }
             },
             {
